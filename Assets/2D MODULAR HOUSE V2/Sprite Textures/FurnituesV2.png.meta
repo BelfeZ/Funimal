@@ -1,0 +1,4423 @@
+fileFormatVersion: 2
+guid: ade1df7bdce94d6448e8ee4821a3b0aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 620117435049240681
+    second: FurnituesV2_0
+  - first:
+      213: -7042255493580626899
+    second: FurnituesV2_1
+  - first:
+      213: 6502502603147133839
+    second: FurnituesV2_2
+  - first:
+      213: 5965229347749783905
+    second: FurnituesV2_3
+  - first:
+      213: 6410609714645982759
+    second: FurnituesV2_4
+  - first:
+      213: 2032204641099227202
+    second: FurnituesV2_5
+  - first:
+      213: 7265727360577156709
+    second: FurnituesV2_6
+  - first:
+      213: -2726116275144763804
+    second: FurnituesV2_7
+  - first:
+      213: 2908949540787678992
+    second: FurnituesV2_8
+  - first:
+      213: 6182335713478910599
+    second: FurnituesV2_9
+  - first:
+      213: 4249200358486807340
+    second: FurnituesV2_10
+  - first:
+      213: -7184125481868119819
+    second: FurnituesV2_11
+  - first:
+      213: 522460519213442206
+    second: FurnituesV2_12
+  - first:
+      213: -6653498365488640265
+    second: FurnituesV2_13
+  - first:
+      213: -4504368128929734936
+    second: FurnituesV2_14
+  - first:
+      213: -5952011418871527863
+    second: FurnituesV2_15
+  - first:
+      213: -677140063134020692
+    second: FurnituesV2_16
+  - first:
+      213: -33776537103907141
+    second: FurnituesV2_17
+  - first:
+      213: -5952670673326108754
+    second: FurnituesV2_18
+  - first:
+      213: 6307418196358261976
+    second: FurnituesV2_19
+  - first:
+      213: 3286161371665133148
+    second: FurnituesV2_20
+  - first:
+      213: -3820416507018236234
+    second: FurnituesV2_21
+  - first:
+      213: -2896778527860957419
+    second: FurnituesV2_22
+  - first:
+      213: -913270991588636870
+    second: FurnituesV2_23
+  - first:
+      213: 5646100238010820208
+    second: FurnituesV2_24
+  - first:
+      213: -4992077621818316902
+    second: FurnituesV2_25
+  - first:
+      213: -5744946304059098733
+    second: FurnituesV2_26
+  - first:
+      213: 2585815454222860561
+    second: FurnituesV2_27
+  - first:
+      213: -3649624332987525120
+    second: FurnituesV2_28
+  - first:
+      213: 4596386658473051799
+    second: FurnituesV2_29
+  - first:
+      213: 8791247036829335006
+    second: FurnituesV2_30
+  - first:
+      213: -1028895013549107295
+    second: FurnituesV2_31
+  - first:
+      213: 5669966261599397905
+    second: FurnituesV2_32
+  - first:
+      213: -3405601581194660116
+    second: FurnituesV2_33
+  - first:
+      213: -2986028130034765425
+    second: FurnituesV2_34
+  - first:
+      213: 4065449480851565769
+    second: FurnituesV2_35
+  - first:
+      213: 3418334010987573714
+    second: FurnituesV2_36
+  - first:
+      213: -2226058605161818529
+    second: FurnituesV2_37
+  - first:
+      213: 3162073362509518340
+    second: FurnituesV2_38
+  - first:
+      213: -3901287863734253980
+    second: FurnituesV2_39
+  - first:
+      213: -4897690170523692303
+    second: FurnituesV2_40
+  - first:
+      213: -8398988062305752481
+    second: FurnituesV2_41
+  - first:
+      213: 1219914914450863762
+    second: FurnituesV2_42
+  - first:
+      213: 4334216295914131651
+    second: FurnituesV2_43
+  - first:
+      213: 3877500300794614364
+    second: FurnituesV2_44
+  - first:
+      213: 2627649635701126231
+    second: FurnituesV2_45
+  - first:
+      213: -3526740633979580427
+    second: FurnituesV2_46
+  - first:
+      213: -8010173102556003914
+    second: FurnituesV2_47
+  - first:
+      213: 4202535351839713031
+    second: FurnituesV2_48
+  - first:
+      213: 550997988701902586
+    second: FurnituesV2_49
+  - first:
+      213: -3049657989509376786
+    second: FurnituesV2_50
+  - first:
+      213: 7776710900152399393
+    second: FurnituesV2_51
+  - first:
+      213: -2065323515972301806
+    second: FurnituesV2_52
+  - first:
+      213: 2598958070707922390
+    second: FurnituesV2_53
+  - first:
+      213: -4732096667376651090
+    second: FurnituesV2_54
+  - first:
+      213: 1000564063722733772
+    second: FurnituesV2_55
+  - first:
+      213: 6538873289050087786
+    second: FurnituesV2_56
+  - first:
+      213: 2748533520961695294
+    second: FurnituesV2_57
+  - first:
+      213: 832919522820134173
+    second: FurnituesV2_58
+  - first:
+      213: -6254605553716135141
+    second: FurnituesV2_59
+  - first:
+      213: -3267091801883615521
+    second: FurnituesV2_60
+  - first:
+      213: -1573849616903548847
+    second: FurnituesV2_61
+  - first:
+      213: -5289698303033809770
+    second: FurnituesV2_62
+  - first:
+      213: 2614167483691259277
+    second: FurnituesV2_63
+  - first:
+      213: -8828060140812151048
+    second: FurnituesV2_64
+  - first:
+      213: 1169578033928218201
+    second: FurnituesV2_65
+  - first:
+      213: -3487072860633578182
+    second: FurnituesV2_66
+  - first:
+      213: -1351199635509435873
+    second: FurnituesV2_67
+  - first:
+      213: -6337340324584320311
+    second: FurnituesV2_68
+  - first:
+      213: -1009629103903372539
+    second: FurnituesV2_69
+  - first:
+      213: 5104587639501645595
+    second: FurnituesV2_70
+  - first:
+      213: 3128864608152361554
+    second: FurnituesV2_71
+  - first:
+      213: 8692290359451015413
+    second: FurnituesV2_72
+  - first:
+      213: 1446869837597022199
+    second: FurnituesV2_73
+  - first:
+      213: 9147099046034404577
+    second: FurnituesV2_74
+  - first:
+      213: 3113085065695579654
+    second: FurnituesV2_75
+  - first:
+      213: -747909826926650026
+    second: FurnituesV2_76
+  - first:
+      213: 2863042763644245260
+    second: FurnituesV2_77
+  - first:
+      213: -796079421442615918
+    second: FurnituesV2_78
+  - first:
+      213: -4790100425391921361
+    second: FurnituesV2_79
+  - first:
+      213: 3497645204304303880
+    second: FurnituesV2_80
+  - first:
+      213: 8137965717949091343
+    second: FurnituesV2_81
+  - first:
+      213: -8152462072453775709
+    second: FurnituesV2_82
+  - first:
+      213: 7841509317098994963
+    second: FurnituesV2_83
+  - first:
+      213: -5622732430738340189
+    second: FurnituesV2_84
+  - first:
+      213: 5759555113733142532
+    second: FurnituesV2_85
+  - first:
+      213: 6891530754243704369
+    second: FurnituesV2_86
+  - first:
+      213: -3916555312304605934
+    second: FurnituesV2_87
+  - first:
+      213: 3969558139713047038
+    second: FurnituesV2_88
+  - first:
+      213: 1542628243778910331
+    second: FurnituesV2_89
+  - first:
+      213: -6198442536420688214
+    second: FurnituesV2_90
+  - first:
+      213: -4463693482539302763
+    second: FurnituesV2_91
+  - first:
+      213: -3494710661259527153
+    second: FurnituesV2_92
+  - first:
+      213: 8208301444748724758
+    second: FurnituesV2_93
+  - first:
+      213: -7986152696368991563
+    second: FurnituesV2_94
+  - first:
+      213: 2523501302915057729
+    second: FurnituesV2_95
+  - first:
+      213: -7033532721485409887
+    second: FurnituesV2_96
+  - first:
+      213: -7670942919948074788
+    second: FurnituesV2_97
+  - first:
+      213: 647281446941076865
+    second: FurnituesV2_98
+  - first:
+      213: -7959477489219086396
+    second: FurnituesV2_99
+  - first:
+      213: 7760321553615579229
+    second: FurnituesV2_100
+  - first:
+      213: -6896297518754891658
+    second: FurnituesV2_101
+  - first:
+      213: -5670228358290384542
+    second: FurnituesV2_102
+  - first:
+      213: -3948741104564867898
+    second: FurnituesV2_103
+  - first:
+      213: 7657524391527756640
+    second: FurnituesV2_104
+  - first:
+      213: -7924149376070553352
+    second: FurnituesV2_105
+  - first:
+      213: -3385677400189458707
+    second: FurnituesV2_106
+  - first:
+      213: -8101202126322577137
+    second: FurnituesV2_107
+  - first:
+      213: 1198379354271352557
+    second: FurnituesV2_108
+  - first:
+      213: -1673335129234785490
+    second: FurnituesV2_109
+  - first:
+      213: 3669625000485824870
+    second: FurnituesV2_110
+  - first:
+      213: 3904865467760433946
+    second: FurnituesV2_111
+  - first:
+      213: -6174530913079649511
+    second: FurnituesV2_112
+  - first:
+      213: -6061395127466959844
+    second: FurnituesV2_113
+  - first:
+      213: -6190169591770595820
+    second: FurnituesV2_114
+  - first:
+      213: 734296967623786292
+    second: FurnituesV2_115
+  - first:
+      213: -2912247851176475025
+    second: FurnituesV2_116
+  - first:
+      213: 1510547920590161928
+    second: FurnituesV2_117
+  - first:
+      213: -7522419128923421289
+    second: FurnituesV2_118
+  - first:
+      213: -4559225422684563082
+    second: FurnituesV2_119
+  - first:
+      213: 2094467289653650150
+    second: FurnituesV2_120
+  - first:
+      213: -7409483112313388110
+    second: FurnituesV2_121
+  - first:
+      213: -716771823425294123
+    second: FurnituesV2_122
+  - first:
+      213: 7911979875546343054
+    second: FurnituesV2_123
+  - first:
+      213: 5599499817211727443
+    second: FurnituesV2_124
+  - first:
+      213: 2215211892031931018
+    second: FurnituesV2_125
+  - first:
+      213: 6509511276777292689
+    second: FurnituesV2_126
+  - first:
+      213: 1937441048546637514
+    second: FurnituesV2_127
+  - first:
+      213: -1895427299729583074
+    second: FurnituesV2_128
+  - first:
+      213: 4167136538036767868
+    second: FurnituesV2_129
+  - first:
+      213: -8193841643910627722
+    second: FurnituesV2_130
+  - first:
+      213: -8335495080457022315
+    second: FurnituesV2_131
+  - first:
+      213: 8654855396254641993
+    second: FurnituesV2_132
+  - first:
+      213: 7554978262492612930
+    second: FurnituesV2_133
+  - first:
+      213: -5626132978813320759
+    second: FurnituesV2_134
+  - first:
+      213: 2167784549246432784
+    second: FurnituesV2_135
+  - first:
+      213: -3654156508147907689
+    second: FurnituesV2_136
+  - first:
+      213: 3665874248910851523
+    second: FurnituesV2_137
+  - first:
+      213: -2174440403602271021
+    second: FurnituesV2_138
+  - first:
+      213: 4922492935394177475
+    second: FurnituesV2_139
+  - first:
+      213: 7427732800854796936
+    second: FurnituesV2_140
+  - first:
+      213: 9201302093094074911
+    second: FurnituesV2_141
+  - first:
+      213: -1024269860387437734
+    second: FurnituesV2_142
+  - first:
+      213: -9217539721253705117
+    second: FurnituesV2_143
+  - first:
+      213: -5463678238570888107
+    second: FurnituesV2_144
+  - first:
+      213: -908819680581978625
+    second: FurnituesV2_145
+  - first:
+      213: 1174721832503163944
+    second: FurnituesV2_146
+  - first:
+      213: 8824143787074427634
+    second: FurnituesV2_147
+  - first:
+      213: -4381544819590263860
+    second: FurnituesV2_148
+  - first:
+      213: -5754853270290537599
+    second: FurnituesV2_149
+  - first:
+      213: -2092674237397010654
+    second: FurnituesV2_150
+  - first:
+      213: -7561633603289462973
+    second: FurnituesV2_151
+  - first:
+      213: 5180767420895286091
+    second: FurnituesV2_152
+  - first:
+      213: 5436016525203654095
+    second: FurnituesV2_153
+  - first:
+      213: -7759398149308369158
+    second: FurnituesV2_154
+  - first:
+      213: 6671939110858324274
+    second: FurnituesV2_155
+  - first:
+      213: 1378451949863617086
+    second: FurnituesV2_156
+  - first:
+      213: 1826502845327907920
+    second: FurnituesV2_157
+  - first:
+      213: 5864102476596529418
+    second: FurnituesV2_158
+  - first:
+      213: -6811191932739788224
+    second: FurnituesV2_159
+  - first:
+      213: -4167749868533855384
+    second: FurnituesV2_160
+  - first:
+      213: -2345144873710224824
+    second: FurnituesV2_161
+  - first:
+      213: -5306171449722809507
+    second: FurnituesV2_162
+  - first:
+      213: 3218054795181766328
+    second: FurnituesV2_163
+  - first:
+      213: 6728915389402716529
+    second: FurnituesV2_164
+  - first:
+      213: -8866241497450175893
+    second: FurnituesV2_165
+  - first:
+      213: 3372315327371435857
+    second: FurnituesV2_166
+  - first:
+      213: 8961552090629981585
+    second: FurnituesV2_167
+  - first:
+      213: -934018792656737713
+    second: FurnituesV2_168
+  - first:
+      213: 7067178997885630241
+    second: FurnituesV2_169
+  - first:
+      213: -3500503411864775862
+    second: FurnituesV2_170
+  - first:
+      213: -3725844172380484310
+    second: FurnituesV2_171
+  - first:
+      213: -621026235146867065
+    second: FurnituesV2_172
+  - first:
+      213: 3908146023019420443
+    second: FurnituesV2_173
+  - first:
+      213: -2632025000782857764
+    second: FurnituesV2_174
+  - first:
+      213: -6066341389517009709
+    second: FurnituesV2_175
+  - first:
+      213: -3704063378586309774
+    second: FurnituesV2_176
+  - first:
+      213: -2429761296156577246
+    second: FurnituesV2_177
+  - first:
+      213: 5664286820938375124
+    second: FurnituesV2_178
+  - first:
+      213: 2883860834814224237
+    second: FurnituesV2_179
+  - first:
+      213: -5375113595152600268
+    second: FurnituesV2_180
+  - first:
+      213: -6713715144830386573
+    second: FurnituesV2_181
+  - first:
+      213: -1585670370948953341
+    second: FurnituesV2_182
+  - first:
+      213: -2002296679917843093
+    second: FurnituesV2_183
+  - first:
+      213: 700029033260045614
+    second: FurnituesV2_184
+  - first:
+      213: 7451937989425357221
+    second: FurnituesV2_185
+  - first:
+      213: 2547849273997679319
+    second: FurnituesV2_186
+  - first:
+      213: 9164308736235850807
+    second: FurnituesV2_187
+  - first:
+      213: -3373552634304973147
+    second: FurnituesV2_188
+  - first:
+      213: 3079727221906488696
+    second: FurnituesV2_189
+  - first:
+      213: 6766712855894011292
+    second: FurnituesV2_190
+  - first:
+      213: -4921591867575043217
+    second: FurnituesV2_191
+  - first:
+      213: -2421576261155193508
+    second: FurnituesV2_192
+  - first:
+      213: 9097302808794066410
+    second: FurnituesV2_193
+  - first:
+      213: 6960965519899412509
+    second: FurnituesV2_194
+  - first:
+      213: 3849649358587996291
+    second: FurnituesV2_195
+  - first:
+      213: -3529888297891187887
+    second: FurnituesV2_196
+  - first:
+      213: 2495398818304387636
+    second: FurnituesV2_197
+  - first:
+      213: 2460959980778251628
+    second: FurnituesV2_198
+  - first:
+      213: -797071311434972541
+    second: FurnituesV2_199
+  - first:
+      213: -5232604523144577063
+    second: FurnituesV2_200
+  - first:
+      213: -8729605458524712456
+    second: FurnituesV2_201
+  - first:
+      213: -8907461882398438108
+    second: FurnituesV2_202
+  - first:
+      213: -5230308626902063756
+    second: FurnituesV2_203
+  - first:
+      213: 8715463210765764495
+    second: FurnituesV2_204
+  - first:
+      213: 4266438153251078047
+    second: FurnituesV2_205
+  - first:
+      213: -7956087837523011762
+    second: FurnituesV2_206
+  - first:
+      213: 5421221893218801452
+    second: FurnituesV2_207
+  - first:
+      213: 2544309830909669524
+    second: FurnituesV2_208
+  - first:
+      213: -685452679146401075
+    second: FurnituesV2_209
+  - first:
+      213: 4785388910085314077
+    second: FurnituesV2_210
+  - first:
+      213: -6196609796708905020
+    second: FurnituesV2_211
+  - first:
+      213: -2307400510549047514
+    second: FurnituesV2_212
+  - first:
+      213: -1108564148172472898
+    second: FurnituesV2_213
+  - first:
+      213: -3026337196036514320
+    second: FurnituesV2_214
+  - first:
+      213: 1478982691662266560
+    second: FurnituesV2_215
+  - first:
+      213: 5825893159296219576
+    second: FurnituesV2_216
+  - first:
+      213: -3803852184997319728
+    second: FurnituesV2_217
+  - first:
+      213: -8170299103965096733
+    second: FurnituesV2_218
+  - first:
+      213: 8229418178653890796
+    second: FurnituesV2_219
+  - first:
+      213: -5363542303788556573
+    second: FurnituesV2_220
+  - first:
+      213: -8877898264116758235
+    second: FurnituesV2_221
+  - first:
+      213: 8430364847324592659
+    second: FurnituesV2_222
+  - first:
+      213: -2881482537394694558
+    second: FurnituesV2_223
+  - first:
+      213: 7765731397050300563
+    second: FurnituesV2_224
+  - first:
+      213: -2543052393594692322
+    second: FurnituesV2_225
+  - first:
+      213: -3880487879059595819
+    second: FurnituesV2_226
+  - first:
+      213: 4665948276387342953
+    second: FurnituesV2_227
+  - first:
+      213: 1471734408987246063
+    second: FurnituesV2_228
+  - first:
+      213: -2630249111850946014
+    second: FurnituesV2_229
+  - first:
+      213: -7952256473062250279
+    second: FurnituesV2_230
+  - first:
+      213: 4720747136298931119
+    second: FurnituesV2_231
+  - first:
+      213: -8552072848141507442
+    second: FurnituesV2_232
+  - first:
+      213: 199126122457474821
+    second: FurnituesV2_233
+  - first:
+      213: 9129887408746255453
+    second: FurnituesV2_234
+  - first:
+      213: -4735154971490902970
+    second: FurnituesV2_235
+  - first:
+      213: 2537857033374882049
+    second: FurnituesV2_236
+  - first:
+      213: -1834280575697392482
+    second: FurnituesV2_237
+  - first:
+      213: 1884092804473728956
+    second: FurnituesV2_238
+  - first:
+      213: 7291879733267028084
+    second: FurnituesV2_239
+  - first:
+      213: 4078485674210626586
+    second: FurnituesV2_240
+  - first:
+      213: -2605820920622259425
+    second: FurnituesV2_241
+  - first:
+      213: -5811040808818162780
+    second: FurnituesV2_242
+  - first:
+      213: -5630603286851172255
+    second: FurnituesV2_243
+  - first:
+      213: -5075621281821164179
+    second: FurnituesV2_244
+  - first:
+      213: -5381688250813493640
+    second: FurnituesV2_245
+  - first:
+      213: -4774740984644340866
+    second: FurnituesV2_246
+  - first:
+      213: 6184575982903401413
+    second: FurnituesV2_247
+  - first:
+      213: 979940926415448639
+    second: FurnituesV2_248
+  - first:
+      213: -672846499566768951
+    second: FurnituesV2_249
+  - first:
+      213: -9079859226293037705
+    second: FurnituesV2_250
+  - first:
+      213: 8716506686445312394
+    second: FurnituesV2_251
+  - first:
+      213: 1369358542829659201
+    second: FurnituesV2_252
+  - first:
+      213: -1732693337047504435
+    second: FurnituesV2_253
+  - first:
+      213: 2532080970272525186
+    second: FurnituesV2_254
+  - first:
+      213: 2404134818055753810
+    second: FurnituesV2_255
+  - first:
+      213: 7256521434636669373
+    second: FurnituesV2_256
+  - first:
+      213: -1811788818509492854
+    second: FurnituesV2_257
+  - first:
+      213: 6353656677581111591
+    second: FurnituesV2_258
+  - first:
+      213: -7949507913411575462
+    second: FurnituesV2_259
+  - first:
+      213: 5457708787705960449
+    second: FurnituesV2_260
+  - first:
+      213: 4080998342905945116
+    second: FurnituesV2_261
+  - first:
+      213: -1979295314598741829
+    second: FurnituesV2_262
+  - first:
+      213: -4480518630959026070
+    second: FurnituesV2_263
+  - first:
+      213: 5929997048837774511
+    second: FurnituesV2_264
+  - first:
+      213: 1376002463793241240
+    second: FurnituesV2_265
+  - first:
+      213: -8344096319544175641
+    second: FurnituesV2_266
+  - first:
+      213: 6047993870605253714
+    second: FurnituesV2_267
+  - first:
+      213: 939393372071080856
+    second: FurnituesV2_268
+  - first:
+      213: 3713345439271114850
+    second: FurnituesV2_269
+  - first:
+      213: 686934154880013974
+    second: FurnituesV2_270
+  - first:
+      213: 3828949620001070516
+    second: FurnituesV2_271
+  - first:
+      213: -5101935371597061601
+    second: FurnituesV2_272
+  - first:
+      213: 2283331026566077646
+    second: FurnituesV2_273
+  - first:
+      213: 6211936043005470364
+    second: FurnituesV2_274
+  - first:
+      213: -3947040430832405827
+    second: FurnituesV2_275
+  - first:
+      213: 8573374799625340277
+    second: FurnituesV2_276
+  - first:
+      213: -2335463826041255142
+    second: FurnituesV2_277
+  - first:
+      213: 2201085647561399369
+    second: FurnituesV2_278
+  - first:
+      213: -3399427341426391120
+    second: FurnituesV2_279
+  - first:
+      213: 4357434768559985996
+    second: FurnituesV2_280
+  - first:
+      213: -4937970745076756887
+    second: FurnituesV2_281
+  - first:
+      213: 6932658479950537911
+    second: FurnituesV2_282
+  - first:
+      213: 614946433523621903
+    second: FurnituesV2_283
+  - first:
+      213: -5486463313761516705
+    second: FurnituesV2_284
+  - first:
+      213: 1737285077822770229
+    second: FurnituesV2_285
+  - first:
+      213: -7151313141886409936
+    second: FurnituesV2_286
+  - first:
+      213: 866963045145259138
+    second: FurnituesV2_287
+  - first:
+      213: 8370069396563087573
+    second: FurnituesV2_288
+  - first:
+      213: -7474096381110242865
+    second: FurnituesV2_289
+  - first:
+      213: 9135685911216959333
+    second: FurnituesV2_290
+  - first:
+      213: -9087477554674143055
+    second: FurnituesV2_291
+  - first:
+      213: 4252703283954883308
+    second: FurnituesV2_292
+  - first:
+      213: 5583337128448521945
+    second: FurnituesV2_293
+  - first:
+      213: 1449635676702440847
+    second: FurnituesV2_294
+  - first:
+      213: 4166230589220420343
+    second: FurnituesV2_295
+  - first:
+      213: -525248477295174532
+    second: FurnituesV2_296
+  - first:
+      213: -2539388157053293586
+    second: FurnituesV2_297
+  - first:
+      213: -7611083736244045165
+    second: FurnituesV2_298
+  - first:
+      213: -3270303716014990352
+    second: FurnituesV2_299
+  - first:
+      213: -2085605469242146334
+    second: FurnituesV2_300
+  - first:
+      213: -385602737859928680
+    second: FurnituesV2_301
+  - first:
+      213: 5271184065330621675
+    second: FurnituesV2_302
+  - first:
+      213: -7820256406387115963
+    second: FurnituesV2_303
+  - first:
+      213: -8171765580222819270
+    second: FurnituesV2_304
+  - first:
+      213: 112380889462429451
+    second: FurnituesV2_305
+  - first:
+      213: 8503435675854519179
+    second: FurnituesV2_306
+  - first:
+      213: -136536183458920082
+    second: FurnituesV2_307
+  - first:
+      213: -1307352296374774762
+    second: FurnituesV2_308
+  - first:
+      213: -5789798764313253177
+    second: FurnituesV2_309
+  - first:
+      213: -5128016713461475570
+    second: FurnituesV2_310
+  - first:
+      213: -6184234941782661091
+    second: FurnituesV2_311
+  - first:
+      213: -3591463699974483880
+    second: FurnituesV2_312
+  - first:
+      213: -645160734917407525
+    second: FurnituesV2_313
+  - first:
+      213: -967123860699665826
+    second: FurnituesV2_314
+  - first:
+      213: -3265705361049105684
+    second: FurnituesV2_315
+  - first:
+      213: 6879796866302485214
+    second: FurnituesV2_316
+  - first:
+      213: -7148145546981977765
+    second: FurnituesV2_317
+  - first:
+      213: -6792948888637904471
+    second: FurnituesV2_318
+  - first:
+      213: 3936730069540851049
+    second: FurnituesV2_319
+  - first:
+      213: 801019049685467454
+    second: FurnituesV2_320
+  - first:
+      213: 7543984802762279383
+    second: FurnituesV2_321
+  - first:
+      213: 8451371719555912649
+    second: FurnituesV2_322
+  - first:
+      213: 5134535269501508161
+    second: FurnituesV2_323
+  - first:
+      213: 2594852605099720167
+    second: FurnituesV2_324
+  - first:
+      213: 698071668097421865
+    second: FurnituesV2_325
+  - first:
+      213: 1503777527367985478
+    second: FurnituesV2_326
+  - first:
+      213: 4367145949258646216
+    second: FurnituesV2_327
+  - first:
+      213: -4739482482582979204
+    second: FurnituesV2_328
+  - first:
+      213: 4663122218811471525
+    second: FurnituesV2_329
+  - first:
+      213: -6090290271276713360
+    second: FurnituesV2_330
+  - first:
+      213: -5111442485347145500
+    second: FurnituesV2_331
+  - first:
+      213: 5081349182807152768
+    second: FurnituesV2_332
+  - first:
+      213: 3436877823142590763
+    second: FurnituesV2_333
+  - first:
+      213: 6940042680441591784
+    second: FurnituesV2_334
+  - first:
+      213: 508426470633520473
+    second: FurnituesV2_335
+  - first:
+      213: 5691823570481033137
+    second: FurnituesV2_336
+  - first:
+      213: 6663479575572639803
+    second: FurnituesV2_337
+  - first:
+      213: 4545239115456268360
+    second: FurnituesV2_338
+  - first:
+      213: 2743688340360476549
+    second: FurnituesV2_339
+  - first:
+      213: 2669495569650016678
+    second: FurnituesV2_340
+  - first:
+      213: -1375009252129665068
+    second: FurnituesV2_341
+  - first:
+      213: -8025807303546542095
+    second: FurnituesV2_342
+  - first:
+      213: -2724588132285003516
+    second: FurnituesV2_343
+  - first:
+      213: 6293980123468772682
+    second: FurnituesV2_344
+  - first:
+      213: 2909313084182589748
+    second: FurnituesV2_345
+  - first:
+      213: 883740535807081397
+    second: FurnituesV2_346
+  - first:
+      213: -2766658318353391427
+    second: FurnituesV2_347
+  - first:
+      213: 8895021885879800792
+    second: FurnituesV2_348
+  - first:
+      213: -3896259052451491355
+    second: FurnituesV2_349
+  - first:
+      213: 7172744667698114367
+    second: FurnituesV2_350
+  - first:
+      213: -5402102331462655170
+    second: FurnituesV2_351
+  - first:
+      213: -7359606250796389748
+    second: FurnituesV2_352
+  - first:
+      213: -3933258441617219807
+    second: FurnituesV2_353
+  - first:
+      213: 875141378153382749
+    second: FurnituesV2_354
+  - first:
+      213: 6855373834495003
+    second: FurnituesV2_355
+  - first:
+      213: 5782982286590852590
+    second: FurnituesV2_356
+  - first:
+      213: -931468493078189261
+    second: FurnituesV2_357
+  - first:
+      213: -7494547894081132628
+    second: FurnituesV2_358
+  - first:
+      213: -5645843800940870260
+    second: FurnituesV2_359
+  - first:
+      213: 5273513583035468913
+    second: FurnituesV2_360
+  - first:
+      213: -2311058841049619542
+    second: FurnituesV2_361
+  - first:
+      213: -778574398428449094
+    second: FurnituesV2_362
+  - first:
+      213: -7212980971506165120
+    second: FurnituesV2_363
+  - first:
+      213: -2967108413920104722
+    second: FurnituesV2_364
+  - first:
+      213: 6780041721377941566
+    second: FurnituesV2_365
+  - first:
+      213: -6252021225447400728
+    second: FurnituesV2_366
+  - first:
+      213: -1641990656024379988
+    second: FurnituesV2_367
+  - first:
+      213: 7920413404595109423
+    second: FurnituesV2_368
+  - first:
+      213: 3656952434914943707
+    second: FurnituesV2_369
+  - first:
+      213: -3841965705818447627
+    second: FurnituesV2_370
+  - first:
+      213: 292353316067929387
+    second: FurnituesV2_371
+  - first:
+      213: -7116692453288604548
+    second: FurnituesV2_372
+  - first:
+      213: 6380075401412587924
+    second: FurnituesV2_373
+  - first:
+      213: 1593254083329020599
+    second: FurnituesV2_374
+  - first:
+      213: -9222427687223226125
+    second: FurnituesV2_375
+  - first:
+      213: -636559095488884365
+    second: FurnituesV2_376
+  - first:
+      213: -6863243106075231197
+    second: FurnituesV2_377
+  - first:
+      213: 5590339739347377328
+    second: FurnituesV2_378
+  - first:
+      213: 2778922489198389961
+    second: FurnituesV2_379
+  - first:
+      213: 493902428475127913
+    second: FurnituesV2_380
+  - first:
+      213: 8346168097329267023
+    second: FurnituesV2_381
+  - first:
+      213: 856952256386226878
+    second: FurnituesV2_382
+  - first:
+      213: 4828105765358973517
+    second: FurnituesV2_383
+  - first:
+      213: 4053556495829538929
+    second: FurnituesV2_384
+  - first:
+      213: 3881288928493214242
+    second: FurnituesV2_385
+  - first:
+      213: -4895012324764911253
+    second: FurnituesV2_386
+  - first:
+      213: -3954321709470523930
+    second: FurnituesV2_387
+  - first:
+      213: -1570184810237117702
+    second: FurnituesV2_388
+  - first:
+      213: -3902963119987987776
+    second: FurnituesV2_389
+  - first:
+      213: -4487635482741049971
+    second: FurnituesV2_390
+  - first:
+      213: -5510941462214910676
+    second: FurnituesV2_391
+  - first:
+      213: 1529668309576081643
+    second: FurnituesV2_392
+  - first:
+      213: 6773037421061896433
+    second: FurnituesV2_393
+  - first:
+      213: 4734064090577226496
+    second: FurnituesV2_394
+  - first:
+      213: -2104281342940189114
+    second: FurnituesV2_395
+  - first:
+      213: -5677344309103365637
+    second: FurnituesV2_396
+  - first:
+      213: 2387281416356039662
+    second: FurnituesV2_397
+  - first:
+      213: 5590823511202542692
+    second: FurnituesV2_398
+  - first:
+      213: 5197405720372130022
+    second: FurnituesV2_399
+  - first:
+      213: -4507053290683433366
+    second: FurnituesV2_400
+  - first:
+      213: 7656629060490544275
+    second: FurnituesV2_401
+  - first:
+      213: -1764722660337109922
+    second: FurnituesV2_402
+  - first:
+      213: 7665132239139938159
+    second: FurnituesV2_403
+  - first:
+      213: 1101041781701483514
+    second: FurnituesV2_404
+  - first:
+      213: -7027190941624206017
+    second: FurnituesV2_405
+  - first:
+      213: 4527769946533302157
+    second: FurnituesV2_406
+  - first:
+      213: 1513099877110551986
+    second: FurnituesV2_407
+  - first:
+      213: 7754546994309338077
+    second: FurnituesV2_408
+  - first:
+      213: 2371484546075844852
+    second: FurnituesV2_409
+  - first:
+      213: -5016525804517074372
+    second: FurnituesV2_410
+  - first:
+      213: 626692036520005338
+    second: FurnituesV2_411
+  - first:
+      213: -3771308395329264150
+    second: FurnituesV2_412
+  - first:
+      213: 1290478586590036263
+    second: FurnituesV2_413
+  - first:
+      213: -8874778506147006533
+    second: FurnituesV2_414
+  - first:
+      213: 3404662396697859502
+    second: FurnituesV2_415
+  - first:
+      213: -1713635668279995749
+    second: FurnituesV2_416
+  - first:
+      213: 4935306035026989456
+    second: FurnituesV2_417
+  - first:
+      213: 1745959049480310625
+    second: FurnituesV2_418
+  - first:
+      213: 5896071712456207532
+    second: FurnituesV2_419
+  - first:
+      213: 225196194514728835
+    second: FurnituesV2_420
+  - first:
+      213: 7544811321074150179
+    second: FurnituesV2_421
+  - first:
+      213: -7426115141947710351
+    second: FurnituesV2_422
+  - first:
+      213: -5637427063762614953
+    second: FurnituesV2_423
+  - first:
+      213: -2466044389817787477
+    second: FurnituesV2_424
+  - first:
+      213: -3136958041251927329
+    second: FurnituesV2_425
+  - first:
+      213: -6599710942979242413
+    second: FurnituesV2_426
+  - first:
+      213: -5448499373931442907
+    second: FurnituesV2_427
+  - first:
+      213: -5486146895677088981
+    second: FurnituesV2_428
+  - first:
+      213: -2700522629785202756
+    second: FurnituesV2_429
+  - first:
+      213: 7724570881749228979
+    second: FurnituesV2_430
+  - first:
+      213: -7228080434199043816
+    second: FurnituesV2_431
+  - first:
+      213: 4172124183766879427
+    second: FurnituesV2_432
+  - first:
+      213: -7240249791950699365
+    second: FurnituesV2_433
+  - first:
+      213: -3083618052389873591
+    second: FurnituesV2_434
+  - first:
+      213: -8128611411148060059
+    second: FurnituesV2_435
+  - first:
+      213: -27867934974042712
+    second: FurnituesV2_436
+  - first:
+      213: 5050363767569276725
+    second: FurnituesV2_437
+  - first:
+      213: 4118860502681178541
+    second: FurnituesV2_438
+  - first:
+      213: -4948426440521253235
+    second: FurnituesV2_439
+  - first:
+      213: -3173164138776536939
+    second: FurnituesV2_440
+  - first:
+      213: 1237575445757821283
+    second: FurnituesV2_441
+  - first:
+      213: -208588701254373197
+    second: FurnituesV2_442
+  - first:
+      213: 8089387675112715112
+    second: FurnituesV2_443
+  - first:
+      213: 8164035209184662543
+    second: FurnituesV2_444
+  - first:
+      213: 103469603634941662
+    second: FurnituesV2_445
+  - first:
+      213: 6694996214369343124
+    second: FurnituesV2_446
+  - first:
+      213: 5149635517620164321
+    second: FurnituesV2_447
+  - first:
+      213: -4882647035704271651
+    second: FurnituesV2_448
+  - first:
+      213: -7423119382505620768
+    second: FurnituesV2_449
+  - first:
+      213: -3267602545275691831
+    second: FurnituesV2_450
+  - first:
+      213: -4139462363591894989
+    second: FurnituesV2_451
+  - first:
+      213: -4089152377612499389
+    second: FurnituesV2_452
+  - first:
+      213: 7866509063366592604
+    second: FurnituesV2_453
+  - first:
+      213: -6703536950401467949
+    second: FurnituesV2_454
+  - first:
+      213: 4271611429541147024
+    second: FurnituesV2_455
+  - first:
+      213: 1069937279360401907
+    second: FurnituesV2_456
+  - first:
+      213: -8169822748057774312
+    second: FurnituesV2_457
+  - first:
+      213: 1875606237806507665
+    second: FurnituesV2_458
+  - first:
+      213: -3261882379963025246
+    second: FurnituesV2_459
+  - first:
+      213: -181592592862203919
+    second: FurnituesV2_460
+  - first:
+      213: 5875593287890757568
+    second: FurnituesV2_461
+  - first:
+      213: 8385667826926670684
+    second: FurnituesV2_462
+  - first:
+      213: -3755037194428225975
+    second: FurnituesV2_463
+  - first:
+      213: -3832306149940679571
+    second: FurnituesV2_464
+  - first:
+      213: 8455919680494239736
+    second: FurnituesV2_465
+  - first:
+      213: 7216921484033057661
+    second: FurnituesV2_466
+  - first:
+      213: 1702538681814288918
+    second: FurnituesV2_467
+  - first:
+      213: 3651512626976419703
+    second: FurnituesV2_468
+  - first:
+      213: -760992411077179008
+    second: FurnituesV2_469
+  - first:
+      213: 6612380822030470618
+    second: FurnituesV2_470
+  - first:
+      213: 8502334425451088728
+    second: FurnituesV2_471
+  - first:
+      213: -6861866831175642503
+    second: FurnituesV2_472
+  - first:
+      213: -4361437104286306406
+    second: FurnituesV2_473
+  - first:
+      213: 8570183370910506971
+    second: FurnituesV2_474
+  - first:
+      213: 8510918608746166413
+    second: FurnituesV2_475
+  - first:
+      213: 6484550934524583246
+    second: FurnituesV2_476
+  - first:
+      213: -504556935728643653
+    second: FurnituesV2_477
+  - first:
+      213: 6029933214795956978
+    second: FurnituesV2_478
+  - first:
+      213: 2679434318850449377
+    second: FurnituesV2_479
+  - first:
+      213: 8603105163204039770
+    second: FurnituesV2_480
+  - first:
+      213: 4916203178919510275
+    second: FurnituesV2_481
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FurnituesV2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e22b85891b9800800000000000000
+      internalID: 620117435049240681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246597a0f1e44e90800000000000000
+      internalID: -7042255493580626899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8343a37aa78d3a50800000000000000
+      internalID: 6502502603147133839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696c549c70c8c250800000000000000
+      internalID: 5965229347749783905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e5423129f07f850800000000000000
+      internalID: 6410609714645982759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ae9f9a57d33c10800000000000000
+      internalID: 2032204641099227202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566b90af98c05d460800000000000000
+      internalID: 7265727360577156709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d59bf0b3ea2ad0800000000000000
+      internalID: -2726116275144763804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6f20f13aae5820800000000000000
+      internalID: 2908949540787678992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822f1473911cc550800000000000000
+      internalID: 6182335713478910599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23911b763138fa30800000000000000
+      internalID: 4249200358486807340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f03b67ffebdc4c90800000000000000
+      internalID: -7184125481868119819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9422e8f217204700800000000000000
+      internalID: 522460519213442206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe48630d760aa3a0800000000000000
+      internalID: -6653498365488640265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5d894d054d71c0800000000000000
+      internalID: -4504368128929734936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946081f4625366da0800000000000000
+      internalID: -5952011418871527863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab06b143b05a96f0800000000000000
+      internalID: -677140063134020692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6cd202b60088ff0800000000000000
+      internalID: -33776537103907141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf038baf8dd36da0800000000000000
+      internalID: -5952670673326108754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce4c37e63788750800000000000000
+      internalID: 6307418196358261976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee5b05b5aca9d20800000000000000
+      internalID: 3286161371665133148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea325ad672bfac0800000000000000
+      internalID: -3820416507018236234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5ed5d6439cc7d0800000000000000
+      internalID: -2896778527860957419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c0b23fd86353f0800000000000000
+      internalID: -913270991588636870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07622ec804afa5e40800000000000000
+      internalID: 5646100238010820208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a7542ad398bab0800000000000000
+      internalID: -4992077621818316902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3993dd446c9d540b0800000000000000
+      internalID: -5744946304059098733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114ba39479a2e320800000000000000
+      internalID: 2585815454222860561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00818a4710ee95dc0800000000000000
+      internalID: -3649624332987525120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79681ac2055a9cf30800000000000000
+      internalID: 4596386658473051799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddfaea1a98c00a70800000000000000
+      internalID: 8791247036829335006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a71c3ebf61a8b1f0800000000000000
+      internalID: -1028895013549107295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118e41f2644cfae40800000000000000
+      internalID: 5669966261599397905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63262d76fdcb0d0800000000000000
+      internalID: -3405601581194660116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8134f38c3f7f86d0800000000000000
+      internalID: -2986028130034765425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc247e53c06b6830800000000000000
+      internalID: 4065449480851565769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1fc800cac507f20800000000000000
+      internalID: 3418334010987573714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56d0262e737b11e0800000000000000
+      internalID: -2226058605161818529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406da1648f0f1eb20800000000000000
+      internalID: 3162073362509518340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c39b9b57dbd9c0800000000000000
+      internalID: -3901287863734253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2530e2db8e70cb0800000000000000
+      internalID: -4897690170523692303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae4896bdcc07b80800000000000000
+      internalID: -8398988062305752481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967b0cb6220ee010800000000000000
+      internalID: 1219914914450863762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0dba9e1ca362c30800000000000000
+      internalID: 4334216295914131651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52555dcaf5afc530800000000000000
+      internalID: 3877500300794614364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754762afb69477420800000000000000
+      internalID: 2627649635701126231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff06b034108e0fc0800000000000000
+      internalID: -3526740633979580427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c2c0c00626d090800000000000000
+      internalID: -8010173102556003914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7076d62f2a7625a30800000000000000
+      internalID: 4202535351839713031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6188c50c985a700800000000000000
+      internalID: 550997988701902586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49cd067307da5d0800000000000000
+      internalID: -3049657989509376786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fd746c5d6ceb60800000000000000
+      internalID: 7776710900152399393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc53c643f7653e0800000000000000
+      internalID: -2065323515972301806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52eae689a511420800000000000000
+      internalID: 2598958070707922390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4743a1727345eb0800000000000000
+      internalID: -4732096667376651090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00739f6b7b2ed00800000000000000
+      internalID: 1000564063722733772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ee19ac9ebeba50800000000000000
+      internalID: 6538873289050087786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eec2acca0c42620800000000000000
+      internalID: 2748533520961695294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d159e2c94ef1f8b00800000000000000
+      internalID: 832919522820134173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7090236d2339a0800000000000000
+      internalID: -6254605553716135141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded224e055f8a2d0800000000000000
+      internalID: -3267091801883615521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150549eac10982ae0800000000000000
+      internalID: -1573849616903548847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694eeae5b673796b0800000000000000
+      internalID: -5289698303033809770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855bc8d973674420800000000000000
+      internalID: 2614167483691259277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65b13331e6c7580800000000000000
+      internalID: -8828060140812151048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562461760d2b3010800000000000000
+      internalID: 1169578033928218201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c70465bd6b9fc0800000000000000
+      internalID: -3487072860633578182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a2d827139f3de0800000000000000
+      internalID: -1351199635509435873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2946c2d8e3d08a0800000000000000
+      internalID: -6337340324584320311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b81f2eda31df1f0800000000000000
+      internalID: -1009629103903372539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176851b96327d640800000000000000
+      internalID: 5104587639501645595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a963f98c5fb6b20800000000000000
+      internalID: 3128864608152361554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f851a7370831a870800000000000000
+      internalID: 8692290359451015413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f792329370541410800000000000000
+      internalID: 1446869837597022199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f1347e1601fe70800000000000000
+      internalID: 9147099046034404577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ecb589f56e33b20800000000000000
+      internalID: 3113085065695579654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d530a99f3ee95f0800000000000000
+      internalID: -747909826926650026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0594c779329bb720800000000000000
+      internalID: 2863042763644245260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951ae7ebf1c3f4f0800000000000000
+      internalID: -796079421442615918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27211aca05268db0800000000000000
+      internalID: -4790100425391921361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80718e038c12a8030800000000000000
+      internalID: 3497645204304303880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e89a424bcdfe070800000000000000
+      internalID: 8137965717949091343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae3c8e40f2acde80800000000000000
+      internalID: -8152462072453775709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df9948d23a2dc60800000000000000
+      internalID: 7841509317098994963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c5ce05aa08f1b0800000000000000
+      internalID: -5622732430738340189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408395a4cdc0eef40800000000000000
+      internalID: 5759555113733142532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136306545b2a3af50800000000000000
+      internalID: 6891530754243704369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2153aeab1b995a9c0800000000000000
+      internalID: -3916555312304605934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94bd0b814b61730800000000000000
+      internalID: 3969558139713047038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783deae634886510800000000000000
+      internalID: 1542628243778910331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae39f79a55baf9a0800000000000000
+      internalID: -6198442536420688214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590c4036d66cd02c0800000000000000
+      internalID: -4463693482539302763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfada5b2b408fc0800000000000000
+      internalID: -3494710661259527153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac29facaeb9e170800000000000000
+      internalID: 8208301444748724758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f5e26f6c7b2190800000000000000
+      internalID: -7986152696368991563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cc7e9017450320800000000000000
+      internalID: 2523501302915057729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a196cb414fd36e90800000000000000
+      internalID: -7033532721485409887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd082348e065b8590800000000000000
+      internalID: -7670942919948074788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18daf9aeb0b9bf800800000000000000
+      internalID: 647281446941076865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d06905614a8190800000000000000
+      internalID: -7959477489219086396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58601a465332bb60800000000000000
+      internalID: 7760321553615579229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f431e1fd6b40a0800000000000000
+      internalID: -6896297518754891658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26951cca95d4f41b0800000000000000
+      internalID: -5670228358290384542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6d6003e04339c0800000000000000
+      internalID: -3948741104564867898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b6efdcddf44a60800000000000000
+      internalID: 7657524391527756640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07e2c5024c70290800000000000000
+      internalID: -7924149376070553352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6a3a5b758a301d0800000000000000
+      internalID: -3385677400189458707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0157ee869fb29f80800000000000000
+      internalID: -8101202126322577137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de681856caf71a010800000000000000
+      internalID: 1198379354271352557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b37cfc09e17c8e0800000000000000
+      internalID: -1673335129234785490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a9d4de702de230800000000000000
+      internalID: 3669625000485824870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bdc8d347ed03630800000000000000
+      internalID: 3904865467760433946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b183f39d8af4aa0800000000000000
+      internalID: -6174530913079649511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c5c080f3991eba0800000000000000
+      internalID: -6061395127466959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb61f9d89181aa0800000000000000
+      internalID: -6190169591770595820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fbcda933fb03a00800000000000000
+      internalID: 734296967623786292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664bb4520e9597d0800000000000000
+      internalID: -2912247851176475025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8084bfe945b86f410800000000000000
+      internalID: 1510547920590161928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958ae068affa9790800000000000000
+      internalID: -7522419128923421289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d4f542a06ab0c0800000000000000
+      internalID: -4559225422684563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22b7927ea011d10800000000000000
+      internalID: 2094467289653650150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30e41dd5a3c2990800000000000000
+      internalID: -7409483112313388110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f9bff2d38d06f0800000000000000
+      internalID: -716771823425294123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86aafff6cffccd60800000000000000
+      internalID: 7911979875546343054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e05c49a6b65bd40800000000000000
+      internalID: 5599499817211727443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c8c6aa730ebe10800000000000000
+      internalID: 2215211892031931018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c5b1740e665a50800000000000000
+      internalID: 6509511276777292689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f1ef5e5c23ea10800000000000000
+      internalID: 1937441048546637514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145a0ec9e612b5e0800000000000000
+      internalID: -1895427299729583074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c8b385a94a4d930800000000000000
+      internalID: 4167136538036767868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e77ec0070a94e80800000000000000
+      internalID: -8193841643910627722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594d75e336f525c80800000000000000
+      internalID: -8335495080457022315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f6124a0293c1870800000000000000
+      internalID: 8654855396254641993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2498ba5a3bca8d860800000000000000
+      internalID: 7554978262492612930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c8b24dd5fbe1b0800000000000000
+      internalID: -5626132978813320759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurnituesV2_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f967ef84851e10800000000000000
+      internalID: 2167784549246432784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

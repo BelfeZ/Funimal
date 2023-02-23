@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548761f77f312745a69f04914273b9d, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  name: Slime
+  sprite: {fileID: 21300000, guid: ac76b5dbae047f44a87003f6a7860b52, type: 3}
+  isBoss: 0
+  isPlayer1: 0
+  isPlayer2: 0
+  isAlive: 0
+  type: 1
+  maxHp: 50
+  currentHp: 50
+  maxSp: 0
+  currentSp: 0
+  attack: 1
+  defence: 5
+  expYield: 10
+  speed: 5
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e4652e003b7985045b84e9fff96dec2c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fda6a93aded6c7e498d97d35dc247d6a, type: 2}
+    level: 1
+  moneyDrop: 25

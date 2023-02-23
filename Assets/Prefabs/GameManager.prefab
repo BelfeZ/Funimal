@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3203268148755517936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3203268148755517942}
+  - component: {fileID: 3203268148755517943}
+  - component: {fileID: 3203268148755517941}
+  - component: {fileID: 3203268148755517940}
+  - component: {fileID: 8837008194093872518}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3203268148755517942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3203268148755517936}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 852.67786, y: 335.2498, z: -274.81406}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3203268148755517943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3203268148755517936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427a9be908232ed4ca9ffbf023289835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hideMenuPos1: {fileID: 0}
+  hideMenuPos2: {fileID: 0}
+  hideMenuPos3: {fileID: 0}
+  hideMenuPos4: {fileID: 0}
+  hideMenuPos5: {fileID: 0}
+  hideMenuPos6: {fileID: 0}
+  menuTran: {fileID: 0}
+  menuPos: {fileID: 0}
+  equipTran: {fileID: 0}
+  inventoryTran: {fileID: 0}
+  statusTran: {fileID: 0}
+  weaponTran: {fileID: 0}
+  artifactTran: {fileID: 0}
+  makeSureTrans: {fileID: 0}
+  makeSureTransPos: {fileID: 0}
+  setting: {fileID: 650174328857664980, guid: 0ab36920c9740df499201df7e64f8291, type: 3}
+  swordMan: {fileID: 0}
+  mage: {fileID: 0}
+  swordManStatus: {fileID: 0}
+  mageStatus: {fileID: 0}
+  playerPlay: 0
+  findBattle: 0
+  _battleSystem: {fileID: 8862895399864580276, guid: dac041b679bfac948bd891bce854e240, type: 3}
+--- !u!114 &3203268148755517941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3203268148755517936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea0f8b88b304e744b99e1c31803c91b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3203268148755517940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3203268148755517936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714ba6cff1601f547bf3abf8a8a26a70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: {fileID: 0}
+  hp: {fileID: 0}
+  maxHp: {fileID: 0}
+  sp: {fileID: 0}
+  maxSp: {fileID: 0}
+  atk: {fileID: 0}
+  def: {fileID: 0}
+  spd: {fileID: 0}
+  _monsterBase: {fileID: 11400000, guid: d903bb87055e9344ab63b783992949d8, type: 2}
+--- !u!114 &8837008194093872518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3203268148755517936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96aacd4b6cab49b4c9e0804ae202e20b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: {fileID: 0}
+  hp: {fileID: 0}
+  maxHp: {fileID: 0}
+  sp: {fileID: 0}
+  maxSp: {fileID: 0}
+  atk: {fileID: 0}
+  def: {fileID: 0}
+  spd: {fileID: 0}
+  _monsterBase: {fileID: 11400000, guid: a87b7b790e3ff0044924cf44afd7ca0e, type: 2}

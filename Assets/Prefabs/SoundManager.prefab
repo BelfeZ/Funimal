@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3271537633094702739
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3271537633094702737}
+  - component: {fileID: 3271537633094702738}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: SoundManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3271537633094702737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3271537633094702739}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 944.0767, y: 533.6548, z: -73.3431}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3271537633094702738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3271537633094702739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a3116def9144a4e97edc63af4f8fe3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - soundName: 0
+    clip: {fileID: 8300000, guid: d26a2ddd95a095044ba2a2cbf1cb7cde, type: 3}
+    volume: 0.7
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 1
+    clip: {fileID: 8300000, guid: e515ab3d6890c604689f3f645ee9fb0a, type: 3}
+    volume: 0.729
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 2
+    clip: {fileID: 8300000, guid: 285a38c00c5c1584facbff04703ea23d, type: 3}
+    volume: 0.729
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 3
+    clip: {fileID: 8300000, guid: acf05c8d5690b444689bb758537a7e23, type: 3}
+    volume: 0.758
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 4
+    clip: {fileID: 8300000, guid: 2ede5da223a58be4f897ad8e1e3fb4ce, type: 3}
+    volume: 0.729
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 5
+    clip: {fileID: 8300000, guid: 267f6dea1b0f33148b0ee3314298eb1c, type: 3}
+    volume: 0.743
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 6
+    clip: {fileID: 8300000, guid: f2593a54280f8b74a98bbc446c26db31, type: 3}
+    volume: 0.725
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 7
+    clip: {fileID: 8300000, guid: 9e83486a1e6531a4180fd8b28ba20781, type: 3}
+    volume: 0.721
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 8
+    clip: {fileID: 8300000, guid: 3bdb3b365ee259d4d9964914d6b37028, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 5cbb02b986890324085a1816c257eb5a, type: 2}
+    loop: 1
+    audioSource: {fileID: 0}
+  - soundName: 9
+    clip: {fileID: 8300000, guid: e75b8ab492c645b4cad62baf3e18cae8, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 5cbb02b986890324085a1816c257eb5a, type: 2}
+    loop: 1
+    audioSource: {fileID: 0}
+  - soundName: 10
+    clip: {fileID: 8300000, guid: 588ed313acd08f84bbbbaf7e7275b302, type: 3}
+    volume: 0.716
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 11
+    clip: {fileID: 8300000, guid: 4e71f65efe1b49347933ac133f64372e, type: 3}
+    volume: 0.713
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 13
+    clip: {fileID: 8300000, guid: e3b7ef5025762744c8756a43a3c17071, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 14
+    clip: {fileID: 8300000, guid: f39322b17e69eee40bf71a59d341f5f1, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 12
+    clip: {fileID: 8300000, guid: beba84c22439d8847b130d3843c10235, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 5cbb02b986890324085a1816c257eb5a, type: 2}
+    loop: 1
+    audioSource: {fileID: 0}
+  - soundName: 15
+    clip: {fileID: 8300000, guid: d80f7c876c1febd4c9f6db6ff558180b, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 9ae8b77d10576ac439446a7ff219e919, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 16
+    clip: {fileID: 8300000, guid: 1b36f828c1fab6f45a11eb4bf19ce43e, type: 3}
+    volume: 0.23
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 17
+    clip: {fileID: 8300000, guid: c6f7147d3dacc8f4182e01aa448cf4c1, type: 3}
+    volume: 0.239
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 18
+    clip: {fileID: 8300000, guid: 4dda61b566de7bd458ea2d7e74051d02, type: 3}
+    volume: 0.246
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 20
+    clip: {fileID: 8300000, guid: 2aba009f4384c4f42a8756428377791a, type: 3}
+    volume: 0.272
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 21
+    clip: {fileID: 8300000, guid: 2b1fb0ebc89283c46bfabbc842ead60b, type: 3}
+    volume: 0.281
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 22
+    clip: {fileID: 8300000, guid: 00cf7fce97c449449a091a18fb2806c1, type: 3}
+    volume: 0.153
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 23
+    clip: {fileID: 8300000, guid: 74e2fc98aac4f4246b3db872cb128d78, type: 3}
+    volume: 0.3
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 24
+    clip: {fileID: 8300000, guid: 67f72cbf4481f44479e415cd065bb99a, type: 3}
+    volume: 0.269
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 25
+    clip: {fileID: 8300000, guid: 83d62270b2cbda24e8a731706f16061b, type: 3}
+    volume: 0.236
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 19
+    clip: {fileID: 8300000, guid: d9776d0f657ea6a4da4c0ef36094374b, type: 3}
+    volume: 0.249
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 26
+    clip: {fileID: 8300000, guid: 986dc3329c72e57449dc6e0f9700f2ee, type: 3}
+    volume: 0.262
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 27
+    clip: {fileID: 8300000, guid: 98e1f316aa6ea7942ac42b643e853e7d, type: 3}
+    volume: 1
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}
+  - soundName: 28
+    clip: {fileID: 8300000, guid: 789352c69c0c62544adcd00567fe13bd, type: 3}
+    volume: 0.1
+    AudioMixerGroup: {fileID: 24300002, guid: 58c6e223237a7574b95ea8f46befb25d, type: 2}
+    loop: 0
+    audioSource: {fileID: 0}

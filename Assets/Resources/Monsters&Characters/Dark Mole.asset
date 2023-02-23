@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a548761f77f312745a69f04914273b9d, type: 3}
+  m_Name: Dark Mole
+  m_EditorClassIdentifier: 
+  name: Dark Mole
+  sprite: {fileID: 21300000, guid: ca5ec8fe54a0ada43badc7018b600dbe, type: 3}
+  isBoss: 0
+  isPlayer1: 0
+  isPlayer2: 0
+  isAlive: 0
+  type: 4
+  maxHp: 200
+  currentHp: 200
+  maxSp: 0
+  currentSp: 0
+  attack: 30
+  defence: 20
+  expYield: 200
+  speed: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: b7f706d560953eb4e94114c45b9e338c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e4652e003b7985045b84e9fff96dec2c, type: 2}
+    level: 1
+  moneyDrop: 50

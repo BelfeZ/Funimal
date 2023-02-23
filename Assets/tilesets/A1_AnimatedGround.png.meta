@@ -1,0 +1,6652 @@
+fileFormatVersion: 2
+guid: f95446dd84d0d1f40a6dd881304d7f94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9007331781161995236
+    second: A1_AnimatedGround_0
+  - first:
+      213: 1390745906271628423
+    second: A1_AnimatedGround_1
+  - first:
+      213: -6204985392544650243
+    second: A1_AnimatedGround_2
+  - first:
+      213: 5707279921740989605
+    second: A1_AnimatedGround_3
+  - first:
+      213: 7103341520421702152
+    second: A1_AnimatedGround_4
+  - first:
+      213: 2801348927215128118
+    second: A1_AnimatedGround_5
+  - first:
+      213: -8279472261302592794
+    second: A1_AnimatedGround_6
+  - first:
+      213: 4122527996114028804
+    second: A1_AnimatedGround_7
+  - first:
+      213: 7920196809226639643
+    second: A1_AnimatedGround_8
+  - first:
+      213: 4769922883404657366
+    second: A1_AnimatedGround_9
+  - first:
+      213: -1107733752394637160
+    second: A1_AnimatedGround_10
+  - first:
+      213: -3032009005170402741
+    second: A1_AnimatedGround_11
+  - first:
+      213: -8076391744956785896
+    second: A1_AnimatedGround_12
+  - first:
+      213: -6694398860100145665
+    second: A1_AnimatedGround_13
+  - first:
+      213: 362158216612459534
+    second: A1_AnimatedGround_14
+  - first:
+      213: -5958276067743808418
+    second: A1_AnimatedGround_15
+  - first:
+      213: -7907314047489276209
+    second: A1_AnimatedGround_16
+  - first:
+      213: -5533464860528243773
+    second: A1_AnimatedGround_17
+  - first:
+      213: -5267284474281948238
+    second: A1_AnimatedGround_18
+  - first:
+      213: -3181715753662954746
+    second: A1_AnimatedGround_19
+  - first:
+      213: -556837975287986749
+    second: A1_AnimatedGround_20
+  - first:
+      213: 1797842217889910839
+    second: A1_AnimatedGround_21
+  - first:
+      213: -6200205664291997291
+    second: A1_AnimatedGround_22
+  - first:
+      213: 3179960942293246144
+    second: A1_AnimatedGround_23
+  - first:
+      213: 1964009073517272197
+    second: A1_AnimatedGround_24
+  - first:
+      213: -3378376482325817138
+    second: A1_AnimatedGround_25
+  - first:
+      213: 3006222704715505939
+    second: A1_AnimatedGround_26
+  - first:
+      213: 2458146138566602242
+    second: A1_AnimatedGround_27
+  - first:
+      213: -1528176506321583813
+    second: A1_AnimatedGround_28
+  - first:
+      213: -3433964223980589999
+    second: A1_AnimatedGround_29
+  - first:
+      213: -9124406595083280505
+    second: A1_AnimatedGround_30
+  - first:
+      213: 4136071271806951658
+    second: A1_AnimatedGround_31
+  - first:
+      213: 5860302257142450192
+    second: A1_AnimatedGround_32
+  - first:
+      213: 2508674852127309278
+    second: A1_AnimatedGround_33
+  - first:
+      213: 8130467244810509071
+    second: A1_AnimatedGround_34
+  - first:
+      213: -4690524372171271640
+    second: A1_AnimatedGround_35
+  - first:
+      213: -8170444809871349625
+    second: A1_AnimatedGround_36
+  - first:
+      213: -7348832512373910567
+    second: A1_AnimatedGround_37
+  - first:
+      213: 1029751211428298963
+    second: A1_AnimatedGround_38
+  - first:
+      213: -6198996189791770192
+    second: A1_AnimatedGround_39
+  - first:
+      213: -3938244574177295911
+    second: A1_AnimatedGround_40
+  - first:
+      213: 2741476330488765118
+    second: A1_AnimatedGround_41
+  - first:
+      213: 3498769735635978855
+    second: A1_AnimatedGround_42
+  - first:
+      213: 5072485876954565771
+    second: A1_AnimatedGround_43
+  - first:
+      213: -8189828994225659062
+    second: A1_AnimatedGround_44
+  - first:
+      213: 1054551597342941485
+    second: A1_AnimatedGround_45
+  - first:
+      213: -2554166882218348917
+    second: A1_AnimatedGround_46
+  - first:
+      213: -5146791459487781661
+    second: A1_AnimatedGround_47
+  - first:
+      213: -8881550559834337292
+    second: A1_AnimatedGround_48
+  - first:
+      213: 307263836878149971
+    second: A1_AnimatedGround_49
+  - first:
+      213: -4649032264846629223
+    second: A1_AnimatedGround_50
+  - first:
+      213: 7231388643545047219
+    second: A1_AnimatedGround_51
+  - first:
+      213: -3236644802869281475
+    second: A1_AnimatedGround_52
+  - first:
+      213: 3670085287003945489
+    second: A1_AnimatedGround_53
+  - first:
+      213: -9213188020021236035
+    second: A1_AnimatedGround_54
+  - first:
+      213: -9013419385379479810
+    second: A1_AnimatedGround_55
+  - first:
+      213: 2649315615005350144
+    second: A1_AnimatedGround_56
+  - first:
+      213: -208461023097247243
+    second: A1_AnimatedGround_57
+  - first:
+      213: 630330303183779276
+    second: A1_AnimatedGround_58
+  - first:
+      213: 301075783281383870
+    second: A1_AnimatedGround_59
+  - first:
+      213: -8440483568700465907
+    second: A1_AnimatedGround_60
+  - first:
+      213: -2722400211090154917
+    second: A1_AnimatedGround_61
+  - first:
+      213: -4624669068742711340
+    second: A1_AnimatedGround_62
+  - first:
+      213: 5720916453301736687
+    second: A1_AnimatedGround_63
+  - first:
+      213: 1650588758966291072
+    second: A1_AnimatedGround_64
+  - first:
+      213: 3086697336787826594
+    second: A1_AnimatedGround_65
+  - first:
+      213: 4170732703963454045
+    second: A1_AnimatedGround_66
+  - first:
+      213: 8154733466341504189
+    second: A1_AnimatedGround_67
+  - first:
+      213: 3306729872777073782
+    second: A1_AnimatedGround_68
+  - first:
+      213: -2289993268569827345
+    second: A1_AnimatedGround_69
+  - first:
+      213: 600478720173134614
+    second: A1_AnimatedGround_70
+  - first:
+      213: 1991583980948326073
+    second: A1_AnimatedGround_71
+  - first:
+      213: -9185280113478787399
+    second: A1_AnimatedGround_72
+  - first:
+      213: -8724091744668281609
+    second: A1_AnimatedGround_73
+  - first:
+      213: -6594773161155374214
+    second: A1_AnimatedGround_74
+  - first:
+      213: 9130528994584837365
+    second: A1_AnimatedGround_75
+  - first:
+      213: 2378894226100982418
+    second: A1_AnimatedGround_76
+  - first:
+      213: -8786568226422920032
+    second: A1_AnimatedGround_77
+  - first:
+      213: 9098733281269165910
+    second: A1_AnimatedGround_78
+  - first:
+      213: 7131291614951345980
+    second: A1_AnimatedGround_79
+  - first:
+      213: 6241210790883235973
+    second: A1_AnimatedGround_80
+  - first:
+      213: -4904762421490959442
+    second: A1_AnimatedGround_81
+  - first:
+      213: 5568899795528303544
+    second: A1_AnimatedGround_82
+  - first:
+      213: 456991040607741475
+    second: A1_AnimatedGround_83
+  - first:
+      213: 8906574481701112748
+    second: A1_AnimatedGround_84
+  - first:
+      213: 8864706514918849099
+    second: A1_AnimatedGround_85
+  - first:
+      213: -5219907929491660894
+    second: A1_AnimatedGround_86
+  - first:
+      213: -3131961682824817225
+    second: A1_AnimatedGround_87
+  - first:
+      213: -6211943791799723783
+    second: A1_AnimatedGround_88
+  - first:
+      213: -6714622438494084301
+    second: A1_AnimatedGround_89
+  - first:
+      213: -3915179041485046956
+    second: A1_AnimatedGround_90
+  - first:
+      213: 6487578618982417326
+    second: A1_AnimatedGround_91
+  - first:
+      213: 3829958045825436139
+    second: A1_AnimatedGround_92
+  - first:
+      213: -2000607512673672549
+    second: A1_AnimatedGround_93
+  - first:
+      213: 1124773693875925242
+    second: A1_AnimatedGround_94
+  - first:
+      213: -7827266564166201503
+    second: A1_AnimatedGround_95
+  - first:
+      213: 2689550680181294570
+    second: A1_AnimatedGround_96
+  - first:
+      213: -3402261093717021024
+    second: A1_AnimatedGround_97
+  - first:
+      213: -1134973236821298606
+    second: A1_AnimatedGround_98
+  - first:
+      213: -4395579590283769969
+    second: A1_AnimatedGround_99
+  - first:
+      213: -4853624329449687729
+    second: A1_AnimatedGround_100
+  - first:
+      213: 2739478797567010299
+    second: A1_AnimatedGround_101
+  - first:
+      213: 2723912316223119574
+    second: A1_AnimatedGround_102
+  - first:
+      213: 8594476711693769529
+    second: A1_AnimatedGround_103
+  - first:
+      213: 8355266255573513590
+    second: A1_AnimatedGround_104
+  - first:
+      213: 6884182540467640382
+    second: A1_AnimatedGround_105
+  - first:
+      213: -3954338837273456276
+    second: A1_AnimatedGround_106
+  - first:
+      213: 2530192709349393418
+    second: A1_AnimatedGround_107
+  - first:
+      213: -4651934152298009134
+    second: A1_AnimatedGround_108
+  - first:
+      213: 4599857620852654516
+    second: A1_AnimatedGround_109
+  - first:
+      213: -8834648160462697151
+    second: A1_AnimatedGround_110
+  - first:
+      213: -760443585796363372
+    second: A1_AnimatedGround_111
+  - first:
+      213: -2724938725825692545
+    second: A1_AnimatedGround_112
+  - first:
+      213: -5897651976581680800
+    second: A1_AnimatedGround_113
+  - first:
+      213: 7044578610171215177
+    second: A1_AnimatedGround_114
+  - first:
+      213: 7211285381141775192
+    second: A1_AnimatedGround_115
+  - first:
+      213: 6501229068474979419
+    second: A1_AnimatedGround_116
+  - first:
+      213: -3411649040508102165
+    second: A1_AnimatedGround_117
+  - first:
+      213: -7180233885997447624
+    second: A1_AnimatedGround_118
+  - first:
+      213: 8613865464158266256
+    second: A1_AnimatedGround_119
+  - first:
+      213: 8594061405421499866
+    second: A1_AnimatedGround_120
+  - first:
+      213: 1614076203643237669
+    second: A1_AnimatedGround_121
+  - first:
+      213: 8472859281235354403
+    second: A1_AnimatedGround_122
+  - first:
+      213: -5521460561581383631
+    second: A1_AnimatedGround_123
+  - first:
+      213: -1389071800459418048
+    second: A1_AnimatedGround_124
+  - first:
+      213: -1375794055404671317
+    second: A1_AnimatedGround_125
+  - first:
+      213: 7918935508101230745
+    second: A1_AnimatedGround_126
+  - first:
+      213: 1960400697320997310
+    second: A1_AnimatedGround_127
+  - first:
+      213: -5734540179303455553
+    second: A1_AnimatedGround_128
+  - first:
+      213: 50972498468014273
+    second: A1_AnimatedGround_129
+  - first:
+      213: -3198822857291058796
+    second: A1_AnimatedGround_130
+  - first:
+      213: 103080116849543951
+    second: A1_AnimatedGround_131
+  - first:
+      213: -7106554618265315860
+    second: A1_AnimatedGround_132
+  - first:
+      213: 1924944870334452384
+    second: A1_AnimatedGround_133
+  - first:
+      213: -5949108874171272968
+    second: A1_AnimatedGround_134
+  - first:
+      213: 486806347874911960
+    second: A1_AnimatedGround_135
+  - first:
+      213: -5332028280797166960
+    second: A1_AnimatedGround_136
+  - first:
+      213: 3562893572630326187
+    second: A1_AnimatedGround_137
+  - first:
+      213: -8037549374477774555
+    second: A1_AnimatedGround_138
+  - first:
+      213: -696260307788511330
+    second: A1_AnimatedGround_139
+  - first:
+      213: -7626501701030869752
+    second: A1_AnimatedGround_140
+  - first:
+      213: 9035976546342371647
+    second: A1_AnimatedGround_141
+  - first:
+      213: -7287989097024014715
+    second: A1_AnimatedGround_142
+  - first:
+      213: -3284200987730614827
+    second: A1_AnimatedGround_143
+  - first:
+      213: -7594527298131691768
+    second: A1_AnimatedGround_144
+  - first:
+      213: -7237048780320865688
+    second: A1_AnimatedGround_145
+  - first:
+      213: -679456074849761472
+    second: A1_AnimatedGround_146
+  - first:
+      213: -5207657732434358555
+    second: A1_AnimatedGround_147
+  - first:
+      213: 2322385320501973640
+    second: A1_AnimatedGround_148
+  - first:
+      213: -8894657484486296285
+    second: A1_AnimatedGround_149
+  - first:
+      213: -8903882586164697867
+    second: A1_AnimatedGround_150
+  - first:
+      213: -1372058688064615308
+    second: A1_AnimatedGround_151
+  - first:
+      213: -6407037864147252364
+    second: A1_AnimatedGround_152
+  - first:
+      213: 6951257709671598319
+    second: A1_AnimatedGround_153
+  - first:
+      213: -6939322967253281593
+    second: A1_AnimatedGround_154
+  - first:
+      213: -3217029889270663719
+    second: A1_AnimatedGround_155
+  - first:
+      213: 2678644540731520298
+    second: A1_AnimatedGround_156
+  - first:
+      213: -6194741182408235687
+    second: A1_AnimatedGround_157
+  - first:
+      213: -8229226389314001434
+    second: A1_AnimatedGround_158
+  - first:
+      213: 2168796935492591364
+    second: A1_AnimatedGround_159
+  - first:
+      213: -106199222595885229
+    second: A1_AnimatedGround_160
+  - first:
+      213: 1909541569052853450
+    second: A1_AnimatedGround_161
+  - first:
+      213: 4847195500317924255
+    second: A1_AnimatedGround_162
+  - first:
+      213: -1053058229831855298
+    second: A1_AnimatedGround_163
+  - first:
+      213: 9135286227589330312
+    second: A1_AnimatedGround_164
+  - first:
+      213: -444500146886831627
+    second: A1_AnimatedGround_165
+  - first:
+      213: -2916060639166073286
+    second: A1_AnimatedGround_166
+  - first:
+      213: -4754211755758426790
+    second: A1_AnimatedGround_167
+  - first:
+      213: 547763480678696496
+    second: A1_AnimatedGround_168
+  - first:
+      213: 4751446710223688817
+    second: A1_AnimatedGround_169
+  - first:
+      213: -8416721340383417329
+    second: A1_AnimatedGround_170
+  - first:
+      213: -2983251892873648133
+    second: A1_AnimatedGround_171
+  - first:
+      213: 4206720728572196320
+    second: A1_AnimatedGround_172
+  - first:
+      213: 6120348851891087025
+    second: A1_AnimatedGround_173
+  - first:
+      213: -1306704495516791239
+    second: A1_AnimatedGround_174
+  - first:
+      213: 8424877427953710866
+    second: A1_AnimatedGround_175
+  - first:
+      213: 8275577600704552232
+    second: A1_AnimatedGround_176
+  - first:
+      213: 6160295756820645819
+    second: A1_AnimatedGround_177
+  - first:
+      213: 3246823486630955939
+    second: A1_AnimatedGround_178
+  - first:
+      213: 6426597198968030913
+    second: A1_AnimatedGround_179
+  - first:
+      213: -662608668871627559
+    second: A1_AnimatedGround_180
+  - first:
+      213: 1020731500911443999
+    second: A1_AnimatedGround_181
+  - first:
+      213: 7375063506521174829
+    second: A1_AnimatedGround_182
+  - first:
+      213: 6575022620705533826
+    second: A1_AnimatedGround_183
+  - first:
+      213: -3545198952463634444
+    second: A1_AnimatedGround_184
+  - first:
+      213: 2219501937593924686
+    second: A1_AnimatedGround_185
+  - first:
+      213: -7085674209057067546
+    second: A1_AnimatedGround_186
+  - first:
+      213: -3794550403815384619
+    second: A1_AnimatedGround_187
+  - first:
+      213: 473154122090052378
+    second: A1_AnimatedGround_188
+  - first:
+      213: 3040533420588766236
+    second: A1_AnimatedGround_189
+  - first:
+      213: -3069622289928689060
+    second: A1_AnimatedGround_190
+  - first:
+      213: -7013034646203266273
+    second: A1_AnimatedGround_191
+  - first:
+      213: -2354067086854870567
+    second: A1_AnimatedGround_192
+  - first:
+      213: -7445333034866200524
+    second: A1_AnimatedGround_193
+  - first:
+      213: 3168270135359951103
+    second: A1_AnimatedGround_194
+  - first:
+      213: 1420523171139253466
+    second: A1_AnimatedGround_195
+  - first:
+      213: 1946499526694609296
+    second: A1_AnimatedGround_196
+  - first:
+      213: 4449853196530024163
+    second: A1_AnimatedGround_197
+  - first:
+      213: 4200167007451318771
+    second: A1_AnimatedGround_198
+  - first:
+      213: -6748889731771994592
+    second: A1_AnimatedGround_199
+  - first:
+      213: 841525684007390197
+    second: A1_AnimatedGround_200
+  - first:
+      213: -5163268061969976471
+    second: A1_AnimatedGround_201
+  - first:
+      213: 1501434973963596804
+    second: A1_AnimatedGround_202
+  - first:
+      213: 5901000567544254309
+    second: A1_AnimatedGround_203
+  - first:
+      213: 6830160299030636405
+    second: A1_AnimatedGround_204
+  - first:
+      213: -3388979529182717974
+    second: A1_AnimatedGround_205
+  - first:
+      213: -4720465913312173339
+    second: A1_AnimatedGround_206
+  - first:
+      213: 9038319409187778317
+    second: A1_AnimatedGround_207
+  - first:
+      213: 419097028870406913
+    second: A1_AnimatedGround_208
+  - first:
+      213: 6759182660037081602
+    second: A1_AnimatedGround_209
+  - first:
+      213: 2837758723626183670
+    second: A1_AnimatedGround_210
+  - first:
+      213: -9107175744054501337
+    second: A1_AnimatedGround_211
+  - first:
+      213: 8788444867598447700
+    second: A1_AnimatedGround_212
+  - first:
+      213: -982634603403703668
+    second: A1_AnimatedGround_213
+  - first:
+      213: 6140810957889866639
+    second: A1_AnimatedGround_214
+  - first:
+      213: -2965815731639384656
+    second: A1_AnimatedGround_215
+  - first:
+      213: -7031885204359833302
+    second: A1_AnimatedGround_216
+  - first:
+      213: 6186309902417709362
+    second: A1_AnimatedGround_217
+  - first:
+      213: -2327641194952525499
+    second: A1_AnimatedGround_218
+  - first:
+      213: 575103686935128969
+    second: A1_AnimatedGround_219
+  - first:
+      213: 2319810326051530009
+    second: A1_AnimatedGround_220
+  - first:
+      213: -8504011268739973018
+    second: A1_AnimatedGround_221
+  - first:
+      213: 8702241268870549588
+    second: A1_AnimatedGround_222
+  - first:
+      213: 6623298596629636361
+    second: A1_AnimatedGround_223
+  - first:
+      213: -7633485492537260186
+    second: A1_AnimatedGround_224
+  - first:
+      213: -1038361142986496913
+    second: A1_AnimatedGround_225
+  - first:
+      213: -5614665405977819855
+    second: A1_AnimatedGround_226
+  - first:
+      213: -2399931862357437619
+    second: A1_AnimatedGround_227
+  - first:
+      213: -484246771964780814
+    second: A1_AnimatedGround_228
+  - first:
+      213: -8058196605680857874
+    second: A1_AnimatedGround_229
+  - first:
+      213: -6160916022252682164
+    second: A1_AnimatedGround_230
+  - first:
+      213: 138825646561010506
+    second: A1_AnimatedGround_231
+  - first:
+      213: -2119889371475271894
+    second: A1_AnimatedGround_232
+  - first:
+      213: 2669072578005728886
+    second: A1_AnimatedGround_233
+  - first:
+      213: -1822952849871025000
+    second: A1_AnimatedGround_234
+  - first:
+      213: 6375541442317681251
+    second: A1_AnimatedGround_235
+  - first:
+      213: 2672999310780675901
+    second: A1_AnimatedGround_236
+  - first:
+      213: -5365025669409493135
+    second: A1_AnimatedGround_237
+  - first:
+      213: 8163624257483116645
+    second: A1_AnimatedGround_238
+  - first:
+      213: 3637194402140374155
+    second: A1_AnimatedGround_239
+  - first:
+      213: 9109571882017991600
+    second: A1_AnimatedGround_240
+  - first:
+      213: 5002569608004805346
+    second: A1_AnimatedGround_241
+  - first:
+      213: 4243762905220039015
+    second: A1_AnimatedGround_242
+  - first:
+      213: -1611298693905117416
+    second: A1_AnimatedGround_243
+  - first:
+      213: 3061001149171140141
+    second: A1_AnimatedGround_244
+  - first:
+      213: -5525425907976745372
+    second: A1_AnimatedGround_245
+  - first:
+      213: 5736292636932849280
+    second: A1_AnimatedGround_246
+  - first:
+      213: -2553214674615552129
+    second: A1_AnimatedGround_247
+  - first:
+      213: -2402583824006640889
+    second: A1_AnimatedGround_248
+  - first:
+      213: -102853600268613122
+    second: A1_AnimatedGround_249
+  - first:
+      213: 4503137661232552078
+    second: A1_AnimatedGround_250
+  - first:
+      213: -104543735735741343
+    second: A1_AnimatedGround_251
+  - first:
+      213: 3630852652840694714
+    second: A1_AnimatedGround_252
+  - first:
+      213: -7589878847407903799
+    second: A1_AnimatedGround_253
+  - first:
+      213: 7434820691863931324
+    second: A1_AnimatedGround_254
+  - first:
+      213: 8626374610673578241
+    second: A1_AnimatedGround_255
+  - first:
+      213: -6693129578228786515
+    second: A1_AnimatedGround_256
+  - first:
+      213: 1751200022496307541
+    second: A1_AnimatedGround_257
+  - first:
+      213: 3067592002932741612
+    second: A1_AnimatedGround_258
+  - first:
+      213: 7739261076302434818
+    second: A1_AnimatedGround_259
+  - first:
+      213: -4158694568778623238
+    second: A1_AnimatedGround_260
+  - first:
+      213: 8919402595054815435
+    second: A1_AnimatedGround_261
+  - first:
+      213: 2695456989120593559
+    second: A1_AnimatedGround_262
+  - first:
+      213: 7272196146227821343
+    second: A1_AnimatedGround_263
+  - first:
+      213: -8171412870870954799
+    second: A1_AnimatedGround_264
+  - first:
+      213: -2501957170425565698
+    second: A1_AnimatedGround_265
+  - first:
+      213: -364321013575043248
+    second: A1_AnimatedGround_266
+  - first:
+      213: -365416552982056685
+    second: A1_AnimatedGround_267
+  - first:
+      213: -1975637310369605353
+    second: A1_AnimatedGround_268
+  - first:
+      213: 3778054708889185313
+    second: A1_AnimatedGround_269
+  - first:
+      213: -6162035379279820107
+    second: A1_AnimatedGround_270
+  - first:
+      213: -60968290765022769
+    second: A1_AnimatedGround_271
+  - first:
+      213: 8349843917061686046
+    second: A1_AnimatedGround_272
+  - first:
+      213: 8672205042321602001
+    second: A1_AnimatedGround_273
+  - first:
+      213: 4335737364204630062
+    second: A1_AnimatedGround_274
+  - first:
+      213: -2586498678000024309
+    second: A1_AnimatedGround_275
+  - first:
+      213: -3257391714530647452
+    second: A1_AnimatedGround_276
+  - first:
+      213: -4627873112817023825
+    second: A1_AnimatedGround_277
+  - first:
+      213: -1027404498985441065
+    second: A1_AnimatedGround_278
+  - first:
+      213: 7245637442754671990
+    second: A1_AnimatedGround_279
+  - first:
+      213: 4579794140724441002
+    second: A1_AnimatedGround_280
+  - first:
+      213: 7532796288867667380
+    second: A1_AnimatedGround_281
+  - first:
+      213: 4528430534184100821
+    second: A1_AnimatedGround_282
+  - first:
+      213: -5039267196393589396
+    second: A1_AnimatedGround_283
+  - first:
+      213: 3459267149212478032
+    second: A1_AnimatedGround_284
+  - first:
+      213: 7757269188270541576
+    second: A1_AnimatedGround_285
+  - first:
+      213: -2762993016122081462
+    second: A1_AnimatedGround_286
+  - first:
+      213: -2392842160676127082
+    second: A1_AnimatedGround_287
+  - first:
+      213: 1515583372670957766
+    second: A1_AnimatedGround_288
+  - first:
+      213: 812032020836714938
+    second: A1_AnimatedGround_289
+  - first:
+      213: 1270153517069013465
+    second: A1_AnimatedGround_290
+  - first:
+      213: -7128731026784542535
+    second: A1_AnimatedGround_291
+  - first:
+      213: 8471660178408718925
+    second: A1_AnimatedGround_292
+  - first:
+      213: 602732276415365915
+    second: A1_AnimatedGround_293
+  - first:
+      213: 4093149423146629972
+    second: A1_AnimatedGround_294
+  - first:
+      213: -1694059762924209360
+    second: A1_AnimatedGround_295
+  - first:
+      213: -2893241066694248554
+    second: A1_AnimatedGround_296
+  - first:
+      213: 7110131971724991827
+    second: A1_AnimatedGround_297
+  - first:
+      213: 941535072737119426
+    second: A1_AnimatedGround_298
+  - first:
+      213: -396447519197301093
+    second: A1_AnimatedGround_299
+  - first:
+      213: 4923447730867548448
+    second: A1_AnimatedGround_300
+  - first:
+      213: -9143362652894020381
+    second: A1_AnimatedGround_301
+  - first:
+      213: -2317772394275463131
+    second: A1_AnimatedGround_302
+  - first:
+      213: 7144064083650278399
+    second: A1_AnimatedGround_303
+  - first:
+      213: -2836178960467242125
+    second: A1_AnimatedGround_304
+  - first:
+      213: -4769147103902366097
+    second: A1_AnimatedGround_305
+  - first:
+      213: -6701653503891872380
+    second: A1_AnimatedGround_306
+  - first:
+      213: -8174924782624740935
+    second: A1_AnimatedGround_307
+  - first:
+      213: -1388259468353069534
+    second: A1_AnimatedGround_308
+  - first:
+      213: 6478761432467360243
+    second: A1_AnimatedGround_309
+  - first:
+      213: 396411413511250496
+    second: A1_AnimatedGround_310
+  - first:
+      213: -2806234773346984079
+    second: A1_AnimatedGround_311
+  - first:
+      213: 2104310210082424905
+    second: A1_AnimatedGround_312
+  - first:
+      213: -6851389816760028579
+    second: A1_AnimatedGround_313
+  - first:
+      213: 7377135244857610464
+    second: A1_AnimatedGround_314
+  - first:
+      213: 9131127530225693915
+    second: A1_AnimatedGround_315
+  - first:
+      213: -8493361132341683897
+    second: A1_AnimatedGround_316
+  - first:
+      213: -8659142307051915199
+    second: A1_AnimatedGround_317
+  - first:
+      213: -4589322771239731645
+    second: A1_AnimatedGround_318
+  - first:
+      213: -7055056965667063341
+    second: A1_AnimatedGround_319
+  - first:
+      213: -1371569209664069165
+    second: A1_AnimatedGround_320
+  - first:
+      213: 6195560837038763270
+    second: A1_AnimatedGround_321
+  - first:
+      213: -2903939729122697433
+    second: A1_AnimatedGround_322
+  - first:
+      213: -8824239922607336932
+    second: A1_AnimatedGround_323
+  - first:
+      213: 7177569601644217420
+    second: A1_AnimatedGround_324
+  - first:
+      213: 477949201538157597
+    second: A1_AnimatedGround_325
+  - first:
+      213: -5804501048837294662
+    second: A1_AnimatedGround_326
+  - first:
+      213: 7613874626633764455
+    second: A1_AnimatedGround_327
+  - first:
+      213: 71207741166455784
+    second: A1_AnimatedGround_328
+  - first:
+      213: -5160143788743968890
+    second: A1_AnimatedGround_329
+  - first:
+      213: -6555164387176416609
+    second: A1_AnimatedGround_330
+  - first:
+      213: -655188204324432605
+    second: A1_AnimatedGround_331
+  - first:
+      213: 9128458333093746225
+    second: A1_AnimatedGround_332
+  - first:
+      213: -805753640339816550
+    second: A1_AnimatedGround_333
+  - first:
+      213: -3988757554012420722
+    second: A1_AnimatedGround_334
+  - first:
+      213: 7419943101246293793
+    second: A1_AnimatedGround_335
+  - first:
+      213: -7934765309122075579
+    second: A1_AnimatedGround_336
+  - first:
+      213: 5421286926911241682
+    second: A1_AnimatedGround_337
+  - first:
+      213: -5128831317193288482
+    second: A1_AnimatedGround_338
+  - first:
+      213: 7237809620209790955
+    second: A1_AnimatedGround_339
+  - first:
+      213: -8107432607493904810
+    second: A1_AnimatedGround_340
+  - first:
+      213: -5811863789818802229
+    second: A1_AnimatedGround_341
+  - first:
+      213: -2516607850211499283
+    second: A1_AnimatedGround_342
+  - first:
+      213: -5299684878312729825
+    second: A1_AnimatedGround_343
+  - first:
+      213: -6942513996286139252
+    second: A1_AnimatedGround_344
+  - first:
+      213: 3244670347598702073
+    second: A1_AnimatedGround_345
+  - first:
+      213: 4646955006261550577
+    second: A1_AnimatedGround_346
+  - first:
+      213: -6326841110078737845
+    second: A1_AnimatedGround_347
+  - first:
+      213: 4776174646180160087
+    second: A1_AnimatedGround_348
+  - first:
+      213: -8125281000577454049
+    second: A1_AnimatedGround_349
+  - first:
+      213: 7715842784025306158
+    second: A1_AnimatedGround_350
+  - first:
+      213: -5939859885267623421
+    second: A1_AnimatedGround_351
+  - first:
+      213: -3144395249487972779
+    second: A1_AnimatedGround_352
+  - first:
+      213: -4680935208689975550
+    second: A1_AnimatedGround_353
+  - first:
+      213: 4736113040059564885
+    second: A1_AnimatedGround_354
+  - first:
+      213: 5924135156342057608
+    second: A1_AnimatedGround_355
+  - first:
+      213: -2216150689843116609
+    second: A1_AnimatedGround_356
+  - first:
+      213: 6815211274468651495
+    second: A1_AnimatedGround_357
+  - first:
+      213: 7489565264703334929
+    second: A1_AnimatedGround_358
+  - first:
+      213: 2530770813076985168
+    second: A1_AnimatedGround_359
+  - first:
+      213: -1037351018640215775
+    second: A1_AnimatedGround_360
+  - first:
+      213: -8060580620611070526
+    second: A1_AnimatedGround_361
+  - first:
+      213: -5025431328979847973
+    second: A1_AnimatedGround_362
+  - first:
+      213: 6360121334370694871
+    second: A1_AnimatedGround_363
+  - first:
+      213: 4097528437473025189
+    second: A1_AnimatedGround_364
+  - first:
+      213: 1104265922894895124
+    second: A1_AnimatedGround_365
+  - first:
+      213: -3678012268667519479
+    second: A1_AnimatedGround_366
+  - first:
+      213: 7684131089432334506
+    second: A1_AnimatedGround_367
+  - first:
+      213: 6677417728219485560
+    second: A1_AnimatedGround_368
+  - first:
+      213: -5135023333412601817
+    second: A1_AnimatedGround_369
+  - first:
+      213: 6348072511983534358
+    second: A1_AnimatedGround_370
+  - first:
+      213: -5266957991710507691
+    second: A1_AnimatedGround_371
+  - first:
+      213: 7834401992255332696
+    second: A1_AnimatedGround_372
+  - first:
+      213: 215732336588144314
+    second: A1_AnimatedGround_373
+  - first:
+      213: -4231656527399862138
+    second: A1_AnimatedGround_374
+  - first:
+      213: 1659530667497624752
+    second: A1_AnimatedGround_375
+  - first:
+      213: -1362978932428955963
+    second: A1_AnimatedGround_376
+  - first:
+      213: -4115493896158412902
+    second: A1_AnimatedGround_377
+  - first:
+      213: -15596092840999385
+    second: A1_AnimatedGround_378
+  - first:
+      213: -5737335166103300931
+    second: A1_AnimatedGround_379
+  - first:
+      213: 6101585703005825669
+    second: A1_AnimatedGround_380
+  - first:
+      213: 1699837269741261362
+    second: A1_AnimatedGround_381
+  - first:
+      213: -8881342528119656210
+    second: A1_AnimatedGround_382
+  - first:
+      213: 312089087480776658
+    second: A1_AnimatedGround_383
+  - first:
+      213: -256010787321653491
+    second: A1_AnimatedGround_384
+  - first:
+      213: -6579106289191162935
+    second: A1_AnimatedGround_385
+  - first:
+      213: 8895974315336169538
+    second: A1_AnimatedGround_386
+  - first:
+      213: -5017253002810210977
+    second: A1_AnimatedGround_387
+  - first:
+      213: 7047329388831558905
+    second: A1_AnimatedGround_388
+  - first:
+      213: 5743194754592864981
+    second: A1_AnimatedGround_389
+  - first:
+      213: 8081595467382212473
+    second: A1_AnimatedGround_390
+  - first:
+      213: -7103195624870456643
+    second: A1_AnimatedGround_391
+  - first:
+      213: 8994372930599493233
+    second: A1_AnimatedGround_392
+  - first:
+      213: -5905715894441457281
+    second: A1_AnimatedGround_393
+  - first:
+      213: 7045201729445083290
+    second: A1_AnimatedGround_394
+  - first:
+      213: -818248090850952489
+    second: A1_AnimatedGround_395
+  - first:
+      213: 7243353462348065137
+    second: A1_AnimatedGround_396
+  - first:
+      213: 6153229528180988800
+    second: A1_AnimatedGround_397
+  - first:
+      213: -5725137539480987269
+    second: A1_AnimatedGround_398
+  - first:
+      213: -3207387942669939194
+    second: A1_AnimatedGround_399
+  - first:
+      213: -4507644025512756607
+    second: A1_AnimatedGround_400
+  - first:
+      213: 1609254992604299701
+    second: A1_AnimatedGround_401
+  - first:
+      213: 4443087100093933819
+    second: A1_AnimatedGround_402
+  - first:
+      213: -5622419819274048315
+    second: A1_AnimatedGround_403
+  - first:
+      213: 8645791902855541281
+    second: A1_AnimatedGround_404
+  - first:
+      213: 879473303370354564
+    second: A1_AnimatedGround_405
+  - first:
+      213: 1297520567919603081
+    second: A1_AnimatedGround_406
+  - first:
+      213: 4516420029640967248
+    second: A1_AnimatedGround_407
+  - first:
+      213: 6022180230028787113
+    second: A1_AnimatedGround_408
+  - first:
+      213: 2069923342697652109
+    second: A1_AnimatedGround_409
+  - first:
+      213: -2221371120982474621
+    second: A1_AnimatedGround_410
+  - first:
+      213: -874691318760648417
+    second: A1_AnimatedGround_411
+  - first:
+      213: -2496738387209023273
+    second: A1_AnimatedGround_412
+  - first:
+      213: 8865964180916195834
+    second: A1_AnimatedGround_413
+  - first:
+      213: 242235890369088733
+    second: A1_AnimatedGround_414
+  - first:
+      213: 5685627825666733445
+    second: A1_AnimatedGround_415
+  - first:
+      213: -9002434710018519441
+    second: A1_AnimatedGround_416
+  - first:
+      213: -3810767443190806273
+    second: A1_AnimatedGround_417
+  - first:
+      213: 7575405999697863536
+    second: A1_AnimatedGround_418
+  - first:
+      213: -789418811429844027
+    second: A1_AnimatedGround_419
+  - first:
+      213: -6937824246190927378
+    second: A1_AnimatedGround_420
+  - first:
+      213: -7872275070911300214
+    second: A1_AnimatedGround_421
+  - first:
+      213: -7463402828712391073
+    second: A1_AnimatedGround_422
+  - first:
+      213: 8329295282303547240
+    second: A1_AnimatedGround_423
+  - first:
+      213: 27224794199871326
+    second: A1_AnimatedGround_424
+  - first:
+      213: 6500272879379938234
+    second: A1_AnimatedGround_425
+  - first:
+      213: -5160050370492369415
+    second: A1_AnimatedGround_426
+  - first:
+      213: 2674213712198621747
+    second: A1_AnimatedGround_427
+  - first:
+      213: -7731413605850082847
+    second: A1_AnimatedGround_428
+  - first:
+      213: -3473630424061792662
+    second: A1_AnimatedGround_429
+  - first:
+      213: -4669184945126703751
+    second: A1_AnimatedGround_430
+  - first:
+      213: -4003659204009347317
+    second: A1_AnimatedGround_431
+  - first:
+      213: -1441584840065512696
+    second: A1_AnimatedGround_432
+  - first:
+      213: 797610876336426069
+    second: A1_AnimatedGround_433
+  - first:
+      213: -3062923579806056499
+    second: A1_AnimatedGround_434
+  - first:
+      213: -4182634774964763726
+    second: A1_AnimatedGround_435
+  - first:
+      213: -3229690089097239398
+    second: A1_AnimatedGround_436
+  - first:
+      213: 1968245079436274112
+    second: A1_AnimatedGround_437
+  - first:
+      213: 2129574133789211702
+    second: A1_AnimatedGround_438
+  - first:
+      213: -6154389627904546869
+    second: A1_AnimatedGround_439
+  - first:
+      213: -4589468649340288529
+    second: A1_AnimatedGround_440
+  - first:
+      213: -4505367814303278557
+    second: A1_AnimatedGround_441
+  - first:
+      213: 4659350220334472221
+    second: A1_AnimatedGround_442
+  - first:
+      213: -2466771194569331360
+    second: A1_AnimatedGround_443
+  - first:
+      213: 154003024626739464
+    second: A1_AnimatedGround_444
+  - first:
+      213: 7857971171647055943
+    second: A1_AnimatedGround_445
+  - first:
+      213: -9203480191914530762
+    second: A1_AnimatedGround_446
+  - first:
+      213: 9080999417106159261
+    second: A1_AnimatedGround_447
+  - first:
+      213: 3622661931859940957
+    second: A1_AnimatedGround_448
+  - first:
+      213: -5546676327079507888
+    second: A1_AnimatedGround_449
+  - first:
+      213: -2977720067003205603
+    second: A1_AnimatedGround_450
+  - first:
+      213: 5716733669761001429
+    second: A1_AnimatedGround_451
+  - first:
+      213: -2320121516110827078
+    second: A1_AnimatedGround_452
+  - first:
+      213: -6766008879318035555
+    second: A1_AnimatedGround_453
+  - first:
+      213: -789701435839180852
+    second: A1_AnimatedGround_454
+  - first:
+      213: 5215539037425966813
+    second: A1_AnimatedGround_455
+  - first:
+      213: -4372048274027915567
+    second: A1_AnimatedGround_456
+  - first:
+      213: 1630950501420905076
+    second: A1_AnimatedGround_457
+  - first:
+      213: -5338534035667542582
+    second: A1_AnimatedGround_458
+  - first:
+      213: 8510484571657159076
+    second: A1_AnimatedGround_459
+  - first:
+      213: -3567326725052551737
+    second: A1_AnimatedGround_460
+  - first:
+      213: 6291158758996247268
+    second: A1_AnimatedGround_461
+  - first:
+      213: 8412916898629430177
+    second: A1_AnimatedGround_462
+  - first:
+      213: 4665466224739074878
+    second: A1_AnimatedGround_463
+  - first:
+      213: 9117476681221973087
+    second: A1_AnimatedGround_464
+  - first:
+      213: 2332900239399545008
+    second: A1_AnimatedGround_465
+  - first:
+      213: -3045986490965082744
+    second: A1_AnimatedGround_466
+  - first:
+      213: -3284833746777886149
+    second: A1_AnimatedGround_467
+  - first:
+      213: 2529965233044708715
+    second: A1_AnimatedGround_468
+  - first:
+      213: -6506937480481277001
+    second: A1_AnimatedGround_469
+  - first:
+      213: -2906632054011423731
+    second: A1_AnimatedGround_470
+  - first:
+      213: 1551674544046311392
+    second: A1_AnimatedGround_471
+  - first:
+      213: -7646785194256248969
+    second: A1_AnimatedGround_472
+  - first:
+      213: -537865829383462605
+    second: A1_AnimatedGround_473
+  - first:
+      213: -918363136589664963
+    second: A1_AnimatedGround_474
+  - first:
+      213: 6738985582805846167
+    second: A1_AnimatedGround_475
+  - first:
+      213: -4053951229759334525
+    second: A1_AnimatedGround_476
+  - first:
+      213: -7638498843897029670
+    second: A1_AnimatedGround_477
+  - first:
+      213: 2188419720000937683
+    second: A1_AnimatedGround_478
+  - first:
+      213: -8978678308526324200
+    second: A1_AnimatedGround_479
+  - first:
+      213: -4356811863172232261
+    second: A1_AnimatedGround_480
+  - first:
+      213: 305564350912177321
+    second: A1_AnimatedGround_481
+  - first:
+      213: 6892337818312369556
+    second: A1_AnimatedGround_482
+  - first:
+      213: 6385094771008494388
+    second: A1_AnimatedGround_483
+  - first:
+      213: 4777276759643796966
+    second: A1_AnimatedGround_484
+  - first:
+      213: -254574773371102947
+    second: A1_AnimatedGround_485
+  - first:
+      213: -7503063245208612403
+    second: A1_AnimatedGround_486
+  - first:
+      213: 4798796573208219992
+    second: A1_AnimatedGround_487
+  - first:
+      213: -6644436049093405746
+    second: A1_AnimatedGround_488
+  - first:
+      213: 5511117037089756264
+    second: A1_AnimatedGround_489
+  - first:
+      213: 8742226152003512635
+    second: A1_AnimatedGround_490
+  - first:
+      213: -7139584270138468821
+    second: A1_AnimatedGround_491
+  - first:
+      213: -4534024836271538101
+    second: A1_AnimatedGround_492
+  - first:
+      213: 321391527849895355
+    second: A1_AnimatedGround_493
+  - first:
+      213: -1547298521467764516
+    second: A1_AnimatedGround_494
+  - first:
+      213: 7628394645504586079
+    second: A1_AnimatedGround_495
+  - first:
+      213: -836509264302075221
+    second: A1_AnimatedGround_496
+  - first:
+      213: -5302739160300194252
+    second: A1_AnimatedGround_497
+  - first:
+      213: 7580079694468270612
+    second: A1_AnimatedGround_498
+  - first:
+      213: -2626123042995113497
+    second: A1_AnimatedGround_499
+  - first:
+      213: -7372993800745629656
+    second: A1_AnimatedGround_500
+  - first:
+      213: -6148093213694791131
+    second: A1_AnimatedGround_501
+  - first:
+      213: 6937208405562949629
+    second: A1_AnimatedGround_502
+  - first:
+      213: 6886766177272711512
+    second: A1_AnimatedGround_503
+  - first:
+      213: 4486355844545529548
+    second: A1_AnimatedGround_504
+  - first:
+      213: -4685638123765136215
+    second: A1_AnimatedGround_505
+  - first:
+      213: 6848214553730456031
+    second: A1_AnimatedGround_506
+  - first:
+      213: -549207692279781812
+    second: A1_AnimatedGround_507
+  - first:
+      213: -2818336522394794476
+    second: A1_AnimatedGround_508
+  - first:
+      213: 6854438554885673311
+    second: A1_AnimatedGround_509
+  - first:
+      213: 7706825313982492574
+    second: A1_AnimatedGround_510
+  - first:
+      213: -6848230761582665210
+    second: A1_AnimatedGround_511
+  - first:
+      213: -183312527826927296
+    second: A1_AnimatedGround_512
+  - first:
+      213: -1982815164281046852
+    second: A1_AnimatedGround_513
+  - first:
+      213: -5261165663808156526
+    second: A1_AnimatedGround_514
+  - first:
+      213: -137660320251870978
+    second: A1_AnimatedGround_515
+  - first:
+      213: -5673430239072001067
+    second: A1_AnimatedGround_516
+  - first:
+      213: 2272849768233038317
+    second: A1_AnimatedGround_517
+  - first:
+      213: 5863073484823920763
+    second: A1_AnimatedGround_518
+  - first:
+      213: -8614359939508672795
+    second: A1_AnimatedGround_519
+  - first:
+      213: 5974063778289866959
+    second: A1_AnimatedGround_520
+  - first:
+      213: 505133436929121031
+    second: A1_AnimatedGround_521
+  - first:
+      213: 2432105432800331913
+    second: A1_AnimatedGround_522
+  - first:
+      213: 8827361263040416368
+    second: A1_AnimatedGround_523
+  - first:
+      213: 9136680358582092352
+    second: A1_AnimatedGround_524
+  - first:
+      213: 1072185499384743987
+    second: A1_AnimatedGround_525
+  - first:
+      213: 1018934692267879865
+    second: A1_AnimatedGround_526
+  - first:
+      213: -5078515118064306801
+    second: A1_AnimatedGround_527
+  - first:
+      213: 1988579962106706992
+    second: A1_AnimatedGround_528
+  - first:
+      213: 8311465607703368133
+    second: A1_AnimatedGround_529
+  - first:
+      213: 975849324953435667
+    second: A1_AnimatedGround_530
+  - first:
+      213: -1270793131498531869
+    second: A1_AnimatedGround_531
+  - first:
+      213: 5913465004663883819
+    second: A1_AnimatedGround_532
+  - first:
+      213: -1642538117082516541
+    second: A1_AnimatedGround_533
+  - first:
+      213: 1800953590382429613
+    second: A1_AnimatedGround_534
+  - first:
+      213: 6547131166451579446
+    second: A1_AnimatedGround_535
+  - first:
+      213: 2921243466245019683
+    second: A1_AnimatedGround_536
+  - first:
+      213: -7038870527781460518
+    second: A1_AnimatedGround_537
+  - first:
+      213: 1300199653645635644
+    second: A1_AnimatedGround_538
+  - first:
+      213: -36885292360602382
+    second: A1_AnimatedGround_539
+  - first:
+      213: 7484487597671233233
+    second: A1_AnimatedGround_540
+  - first:
+      213: -4578555944947850025
+    second: A1_AnimatedGround_541
+  - first:
+      213: 9102245575956904629
+    second: A1_AnimatedGround_542
+  - first:
+      213: -7314863432533973976
+    second: A1_AnimatedGround_543
+  - first:
+      213: -5455966027771756019
+    second: A1_AnimatedGround_544
+  - first:
+      213: 6103607671686187002
+    second: A1_AnimatedGround_545
+  - first:
+      213: -5036593719018563647
+    second: A1_AnimatedGround_546
+  - first:
+      213: -5500862471547482976
+    second: A1_AnimatedGround_547
+  - first:
+      213: -8087071844953212107
+    second: A1_AnimatedGround_548
+  - first:
+      213: 3863277660071702299
+    second: A1_AnimatedGround_549
+  - first:
+      213: 3227428012583162091
+    second: A1_AnimatedGround_550
+  - first:
+      213: -999521500481786744
+    second: A1_AnimatedGround_551
+  - first:
+      213: 8289044242608272291
+    second: A1_AnimatedGround_552
+  - first:
+      213: 4924296075287669217
+    second: A1_AnimatedGround_553
+  - first:
+      213: 1265296501467322348
+    second: A1_AnimatedGround_554
+  - first:
+      213: 4635648918745090001
+    second: A1_AnimatedGround_555
+  - first:
+      213: -8924861056789401174
+    second: A1_AnimatedGround_556
+  - first:
+      213: -8435286484862126758
+    second: A1_AnimatedGround_557
+  - first:
+      213: 4473702277103069898
+    second: A1_AnimatedGround_558
+  - first:
+      213: 7910799471197756103
+    second: A1_AnimatedGround_559
+  - first:
+      213: 4453466046209979712
+    second: A1_AnimatedGround_560
+  - first:
+      213: -3089966527199656161
+    second: A1_AnimatedGround_561
+  - first:
+      213: -7571480006735591201
+    second: A1_AnimatedGround_562
+  - first:
+      213: -7471608204222536826
+    second: A1_AnimatedGround_563
+  - first:
+      213: -7721761836451565298
+    second: A1_AnimatedGround_564
+  - first:
+      213: 8706274298029960394
+    second: A1_AnimatedGround_565
+  - first:
+      213: -5328205311113635304
+    second: A1_AnimatedGround_566
+  - first:
+      213: 3757810050644122725
+    second: A1_AnimatedGround_567
+  - first:
+      213: 6653106410541005149
+    second: A1_AnimatedGround_568
+  - first:
+      213: -1095742904952796278
+    second: A1_AnimatedGround_569
+  - first:
+      213: 4292046846420761685
+    second: A1_AnimatedGround_570
+  - first:
+      213: 247973524308125056
+    second: A1_AnimatedGround_571
+  - first:
+      213: -1007498180451239860
+    second: A1_AnimatedGround_572
+  - first:
+      213: -2116916563656789700
+    second: A1_AnimatedGround_573
+  - first:
+      213: -4725719905896690088
+    second: A1_AnimatedGround_574
+  - first:
+      213: 6672859976729247246
+    second: A1_AnimatedGround_575
+  - first:
+      213: -3566786539179208506
+    second: A1_AnimatedGround_576
+  - first:
+      213: 7488550216071992934
+    second: A1_AnimatedGround_577
+  - first:
+      213: 8606420420973254383
+    second: A1_AnimatedGround_578
+  - first:
+      213: 7489950893717319755
+    second: A1_AnimatedGround_579
+  - first:
+      213: -4186983779736698317
+    second: A1_AnimatedGround_580
+  - first:
+      213: -3030701309373043360
+    second: A1_AnimatedGround_581
+  - first:
+      213: 1088176885948031151
+    second: A1_AnimatedGround_582
+  - first:
+      213: -4908047207149990962
+    second: A1_AnimatedGround_583
+  - first:
+      213: -289051002674626198
+    second: A1_AnimatedGround_584
+  - first:
+      213: 7533448780178869249
+    second: A1_AnimatedGround_585
+  - first:
+      213: 1592317163498886478
+    second: A1_AnimatedGround_586
+  - first:
+      213: 5840359783308108825
+    second: A1_AnimatedGround_587
+  - first:
+      213: -3171001038909178479
+    second: A1_AnimatedGround_588
+  - first:
+      213: 3480147221259758724
+    second: A1_AnimatedGround_589
+  - first:
+      213: -2267436940454127185
+    second: A1_AnimatedGround_590
+  - first:
+      213: -6068012761330533941
+    second: A1_AnimatedGround_591
+  - first:
+      213: -6628047999664623839
+    second: A1_AnimatedGround_592
+  - first:
+      213: -7836318744107701803
+    second: A1_AnimatedGround_593
+  - first:
+      213: -7905726364323683179
+    second: A1_AnimatedGround_594
+  - first:
+      213: 853404735823079771
+    second: A1_AnimatedGround_595
+  - first:
+      213: 7259536899761769624
+    second: A1_AnimatedGround_596
+  - first:
+      213: 3317338798104590937
+    second: A1_AnimatedGround_597
+  - first:
+      213: 1054189242006409638
+    second: A1_AnimatedGround_598
+  - first:
+      213: -1767421699446339896
+    second: A1_AnimatedGround_599
+  - first:
+      213: -4226974232029897770
+    second: A1_AnimatedGround_600
+  - first:
+      213: -5650784181986400584
+    second: A1_AnimatedGround_601
+  - first:
+      213: -6717382901950779409
+    second: A1_AnimatedGround_602
+  - first:
+      213: 4523719000865096393
+    second: A1_AnimatedGround_603
+  - first:
+      213: -4453052705935205066
+    second: A1_AnimatedGround_604
+  - first:
+      213: 1145804651508641971
+    second: A1_AnimatedGround_605
+  - first:
+      213: 2896527422449677818
+    second: A1_AnimatedGround_606
+  - first:
+      213: 2916926246310425028
+    second: A1_AnimatedGround_607
+  - first:
+      213: -426599918982147034
+    second: A1_AnimatedGround_608
+  - first:
+      213: -5022952722662861666
+    second: A1_AnimatedGround_609
+  - first:
+      213: 6091208632406475316
+    second: A1_AnimatedGround_610
+  - first:
+      213: 7459049190408743221
+    second: A1_AnimatedGround_611
+  - first:
+      213: 3847258551596929276
+    second: A1_AnimatedGround_612
+  - first:
+      213: -8316233406967544147
+    second: A1_AnimatedGround_613
+  - first:
+      213: -4321732741293662138
+    second: A1_AnimatedGround_614
+  - first:
+      213: 4512395462918166964
+    second: A1_AnimatedGround_615
+  - first:
+      213: -6478484354688267894
+    second: A1_AnimatedGround_616
+  - first:
+      213: 8593064288004065506
+    second: A1_AnimatedGround_617
+  - first:
+      213: 1485655994809983891
+    second: A1_AnimatedGround_618
+  - first:
+      213: -5557711837669324394
+    second: A1_AnimatedGround_619
+  - first:
+      213: 8649636438227988090
+    second: A1_AnimatedGround_620
+  - first:
+      213: 4185907866006440082
+    second: A1_AnimatedGround_621
+  - first:
+      213: -6329230351386161590
+    second: A1_AnimatedGround_622
+  - first:
+      213: -6093722867293269252
+    second: A1_AnimatedGround_623
+  - first:
+      213: -5577620125014491169
+    second: A1_AnimatedGround_624
+  - first:
+      213: -1195221486528043796
+    second: A1_AnimatedGround_625
+  - first:
+      213: -4362824048061075714
+    second: A1_AnimatedGround_626
+  - first:
+      213: 2797195753524481255
+    second: A1_AnimatedGround_627
+  - first:
+      213: 6059348523418771837
+    second: A1_AnimatedGround_628
+  - first:
+      213: 1008546321379061656
+    second: A1_AnimatedGround_629
+  - first:
+      213: 5723676582269843912
+    second: A1_AnimatedGround_630
+  - first:
+      213: 1805932637998215763
+    second: A1_AnimatedGround_631
+  - first:
+      213: 4214588108419857349
+    second: A1_AnimatedGround_632
+  - first:
+      213: 8001739933805395424
+    second: A1_AnimatedGround_633
+  - first:
+      213: -4545649060793698060
+    second: A1_AnimatedGround_634
+  - first:
+      213: 3807604282346095443
+    second: A1_AnimatedGround_635
+  - first:
+      213: 8679910721336829740
+    second: A1_AnimatedGround_636
+  - first:
+      213: -6194722311645390799
+    second: A1_AnimatedGround_637
+  - first:
+      213: -4490467366577378832
+    second: A1_AnimatedGround_638
+  - first:
+      213: -1933726138175904487
+    second: A1_AnimatedGround_639
+  - first:
+      213: 3852319314621516087
+    second: A1_AnimatedGround_640
+  - first:
+      213: -9176545116963058537
+    second: A1_AnimatedGround_641
+  - first:
+      213: -9178991775127168225
+    second: A1_AnimatedGround_642
+  - first:
+      213: 3679224862653819358
+    second: A1_AnimatedGround_643
+  - first:
+      213: 7389917117562205267
+    second: A1_AnimatedGround_644
+  - first:
+      213: -7654291722726841108
+    second: A1_AnimatedGround_645
+  - first:
+      213: 6638405697508641316
+    second: A1_AnimatedGround_646
+  - first:
+      213: 2616312703829590971
+    second: A1_AnimatedGround_647
+  - first:
+      213: 1497259227956810056
+    second: A1_AnimatedGround_648
+  - first:
+      213: -1963090691929144456
+    second: A1_AnimatedGround_649
+  - first:
+      213: 3433925846376595021
+    second: A1_AnimatedGround_650
+  - first:
+      213: -3040603458618885935
+    second: A1_AnimatedGround_651
+  - first:
+      213: -190006591570658844
+    second: A1_AnimatedGround_652
+  - first:
+      213: 207025888261046418
+    second: A1_AnimatedGround_653
+  - first:
+      213: 439228465994069428
+    second: A1_AnimatedGround_654
+  - first:
+      213: 4282444236289002468
+    second: A1_AnimatedGround_655
+  - first:
+      213: -5080409585151291630
+    second: A1_AnimatedGround_656
+  - first:
+      213: -1905631752189401247
+    second: A1_AnimatedGround_657
+  - first:
+      213: 8303806048349231267
+    second: A1_AnimatedGround_658
+  - first:
+      213: -1777089929311145826
+    second: A1_AnimatedGround_659
+  - first:
+      213: -6452989013810484320
+    second: A1_AnimatedGround_660
+  - first:
+      213: -2234475294821787207
+    second: A1_AnimatedGround_661
+  - first:
+      213: -5456893292800334334
+    second: A1_AnimatedGround_662
+  - first:
+      213: -3033722349169831659
+    second: A1_AnimatedGround_663
+  - first:
+      213: -9213629270378811292
+    second: A1_AnimatedGround_664
+  - first:
+      213: -5762640770479167018
+    second: A1_AnimatedGround_665
+  - first:
+      213: 971496099400379236
+    second: A1_AnimatedGround_666
+  - first:
+      213: 2917617090000024494
+    second: A1_AnimatedGround_667
+  - first:
+      213: -160241290316181305
+    second: A1_AnimatedGround_668
+  - first:
+      213: -735264638007179600
+    second: A1_AnimatedGround_669
+  - first:
+      213: 8873800130489033490
+    second: A1_AnimatedGround_670
+  - first:
+      213: 621092309143451120
+    second: A1_AnimatedGround_671
+  - first:
+      213: -5172147325964402736
+    second: A1_AnimatedGround_672
+  - first:
+      213: 1329474834138143088
+    second: A1_AnimatedGround_673
+  - first:
+      213: 9118566330856300595
+    second: A1_AnimatedGround_674
+  - first:
+      213: -2083352258623053210
+    second: A1_AnimatedGround_675
+  - first:
+      213: -677484317970818515
+    second: A1_AnimatedGround_676
+  - first:
+      213: 6093485645403256169
+    second: A1_AnimatedGround_677
+  - first:
+      213: 6547357666634055206
+    second: A1_AnimatedGround_678
+  - first:
+      213: -6011925297567967094
+    second: A1_AnimatedGround_679
+  - first:
+      213: -2141789276548362001
+    second: A1_AnimatedGround_680
+  - first:
+      213: -6371609688915372381
+    second: A1_AnimatedGround_681
+  - first:
+      213: -1879832538857023860
+    second: A1_AnimatedGround_682
+  - first:
+      213: 2786543742575022498
+    second: A1_AnimatedGround_683
+  - first:
+      213: 3315310746563089636
+    second: A1_AnimatedGround_684
+  - first:
+      213: 3835252542521660924
+    second: A1_AnimatedGround_685
+  - first:
+      213: -606641058747077184
+    second: A1_AnimatedGround_686
+  - first:
+      213: 4296994535635926673
+    second: A1_AnimatedGround_687
+  - first:
+      213: 4032233759676039979
+    second: A1_AnimatedGround_688
+  - first:
+      213: 5440677859766353903
+    second: A1_AnimatedGround_689
+  - first:
+      213: -8762737561788533403
+    second: A1_AnimatedGround_690
+  - first:
+      213: -7312744627884219734
+    second: A1_AnimatedGround_691
+  - first:
+      213: -4246434821990576822
+    second: A1_AnimatedGround_692
+  - first:
+      213: -8617156434972667578
+    second: A1_AnimatedGround_693
+  - first:
+      213: -4409435746129643609
+    second: A1_AnimatedGround_694
+  - first:
+      213: 5549454511712368112
+    second: A1_AnimatedGround_695
+  - first:
+      213: -8999121351695801980
+    second: A1_AnimatedGround_696
+  - first:
+      213: -1675677129582557551
+    second: A1_AnimatedGround_697
+  - first:
+      213: 5705960180466704122
+    second: A1_AnimatedGround_698
+  - first:
+      213: -8776604124073772274
+    second: A1_AnimatedGround_699
+  - first:
+      213: -6974000907343778872
+    second: A1_AnimatedGround_700
+  - first:
+      213: 7763598904298275127
+    second: A1_AnimatedGround_701
+  - first:
+      213: -8076243810447622625
+    second: A1_AnimatedGround_702
+  - first:
+      213: -4788464986830714895
+    second: A1_AnimatedGround_703
+  - first:
+      213: -6101529264144073940
+    second: A1_AnimatedGround_704
+  - first:
+      213: -8126222377481076707
+    second: A1_AnimatedGround_705
+  - first:
+      213: -1762753119250595651
+    second: A1_AnimatedGround_706
+  - first:
+      213: -3836510550886439123
+    second: A1_AnimatedGround_707
+  - first:
+      213: -6006560590483559167
+    second: A1_AnimatedGround_708
+  - first:
+      213: 6124055199035430740
+    second: A1_AnimatedGround_709
+  - first:
+      213: 430599013718322365
+    second: A1_AnimatedGround_710
+  - first:
+      213: 7408772942853352260
+    second: A1_AnimatedGround_711
+  - first:
+      213: -6010206304167288760
+    second: A1_AnimatedGround_712
+  - first:
+      213: -2058672161930050874
+    second: A1_AnimatedGround_713
+  - first:
+      213: -1780689062463445353
+    second: A1_AnimatedGround_714
+  - first:
+      213: -134062372979318166
+    second: A1_AnimatedGround_715
+  - first:
+      213: 6148724670964696294
+    second: A1_AnimatedGround_716
+  - first:
+      213: -329423977963503847
+    second: A1_AnimatedGround_717
+  - first:
+      213: 6517094361048861211
+    second: A1_AnimatedGround_718
+  - first:
+      213: 3523783739850837722
+    second: A1_AnimatedGround_719
+  - first:
+      213: 8239736668861013245
+    second: A1_AnimatedGround_720
+  - first:
+      213: -6014390910331656483
+    second: A1_AnimatedGround_721
+  - first:
+      213: -8202455802541388872
+    second: A1_AnimatedGround_722
+  - first:
+      213: 1489044357732437639
+    second: A1_AnimatedGround_723
+  - first:
+      213: 8069888954647934276
+    second: A1_AnimatedGround_724
+  - first:
+      213: 6143856287554565694
+    second: A1_AnimatedGround_725
+  - first:
+      213: -6834035549115637722
+    second: A1_AnimatedGround_726
+  - first:
+      213: -1888736329469221842
+    second: A1_AnimatedGround_727
+  - first:
+      213: 7759226657943107818
+    second: A1_AnimatedGround_728
+  - first:
+      213: 7534309608617101092
+    second: A1_AnimatedGround_729
+  - first:
+      213: 1960338975654198703
+    second: A1_AnimatedGround_730
+  - first:
+      213: -5783597782479668659
+    second: A1_AnimatedGround_731
+  - first:
+      213: -7735051885507867243
+    second: A1_AnimatedGround_732
+  - first:
+      213: 4373422532671579355
+    second: A1_AnimatedGround_733
+  - first:
+      213: 8525106317737872659
+    second: A1_AnimatedGround_734
+  - first:
+      213: -7157078601553910631
+    second: A1_AnimatedGround_735
+  - first:
+      213: -6624577574298948495
+    second: A1_AnimatedGround_736
+  - first:
+      213: -8201501108805412976
+    second: A1_AnimatedGround_737
+  - first:
+      213: -3350545460967441360
+    second: A1_AnimatedGround_738
+  - first:
+      213: 4905514131315549316
+    second: A1_AnimatedGround_739
+  - first:
+      213: 6142429987185637597
+    second: A1_AnimatedGround_740
+  - first:
+      213: -7348048958502720294
+    second: A1_AnimatedGround_741
+  - first:
+      213: -5744924628244765917
+    second: A1_AnimatedGround_742
+  - first:
+      213: -3483531363737645361
+    second: A1_AnimatedGround_743
+  - first:
+      213: 1906515954163388148
+    second: A1_AnimatedGround_744
+  - first:
+      213: -5288944184412748371
+    second: A1_AnimatedGround_745
+  - first:
+      213: 7572696577633983171
+    second: A1_AnimatedGround_746
+  - first:
+      213: 6137558910254786825
+    second: A1_AnimatedGround_747
+  - first:
+      213: 3870711733567132988
+    second: A1_AnimatedGround_748
+  - first:
+      213: 4780760216562753666
+    second: A1_AnimatedGround_749
+  - first:
+      213: 8263364428301376138
+    second: A1_AnimatedGround_750
+  - first:
+      213: 4543937856688571903
+    second: A1_AnimatedGround_751
+  - first:
+      213: -1055223052421623302
+    second: A1_AnimatedGround_752
+  - first:
+      213: -4898209515288730408
+    second: A1_AnimatedGround_753
+  - first:
+      213: 2376626438645129023
+    second: A1_AnimatedGround_754
+  - first:
+      213: -9116535224920637642
+    second: A1_AnimatedGround_755
+  - first:
+      213: -2065384066323837389
+    second: A1_AnimatedGround_756
+  - first:
+      213: 7826577528140231195
+    second: A1_AnimatedGround_757
+  - first:
+      213: -7868106546964700030
+    second: A1_AnimatedGround_758
+  - first:
+      213: 5949376879481183922
+    second: A1_AnimatedGround_759
+  - first:
+      213: 527590406880441275
+    second: A1_AnimatedGround_760
+  - first:
+      213: 3755834915076339009
+    second: A1_AnimatedGround_761
+  - first:
+      213: -8581039108588605379
+    second: A1_AnimatedGround_762
+  - first:
+      213: 2714925883658593833
+    second: A1_AnimatedGround_763
+  - first:
+      213: 5286711751393528757
+    second: A1_AnimatedGround_764
+  - first:
+      213: -672116946742646722
+    second: A1_AnimatedGround_765
+  - first:
+      213: 7281857272259657246
+    second: A1_AnimatedGround_766
+  - first:
+      213: -9210285129532477397
+    second: A1_AnimatedGround_767
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A1_AnimatedGround_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14b0c9c7778ff280800000000000000
+      internalID: -9007331781161995236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c2624880cec4310800000000000000
+      internalID: 1390745906271628423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb63e039a673e9a0800000000000000
+      internalID: -6204985392544650243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a44711b9d4543f40800000000000000
+      internalID: 5707279921740989605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac40b4a73249260800000000000000
+      internalID: 7103341520421702152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4492d10460e620800000000000000
+      internalID: 2801348927215128118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eadb5948d7691d80800000000000000
+      internalID: -8279472261302592794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409caf0de59263930800000000000000
+      internalID: 4122527996114028804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d225f8013aed60800000000000000
+      internalID: 7920196809226639643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2775f179b223240800000000000000
+      internalID: 4769922883404657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890aece650a80a0f0800000000000000
+      internalID: -1107733752394637160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a5803cfd32ce5d0800000000000000
+      internalID: -3032009005170402741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b14fe9f74eaef80800000000000000
+      internalID: -8076391744956785896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd63f684b7b813a0800000000000000
+      internalID: -6694398860100145665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04bcadaaf4a60500800000000000000
+      internalID: 362158216612459534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544b641c73ff4da0800000000000000
+      internalID: -5958276067743808418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc602ffb4c3934290800000000000000
+      internalID: -7907314047489276209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8b13e60f2533b0800000000000000
+      internalID: -5533464860528243773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8e7b8da8d6e6b0800000000000000
+      internalID: -5267284474281948238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c7a6216648d3d0800000000000000
+      internalID: -3181715753662954746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5038dcfc6b548f0800000000000000
+      internalID: -556837975287986749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305787c8f733f810800000000000000
+      internalID: 1797842217889910839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599b2856cc174f9a0800000000000000
+      internalID: -6200205664291997291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0610df0ad712c20800000000000000
+      internalID: 3179960942293246144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c14aab8df814b10800000000000000
+      internalID: 1964009073517272197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89f6d1d789d11d0800000000000000
+      internalID: -3378376482325817138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311284e4f9f38b920800000000000000
+      internalID: 3006222704715505939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea243a3e61d1220800000000000000
+      internalID: 2458146138566602242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ca9a6093dacae0800000000000000
+      internalID: -1528176506321583813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cac327bbb1850d0800000000000000
+      internalID: -3433964223980589999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f54d18b889f5180800000000000000
+      internalID: -9124406595083280505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae060c968e6466930800000000000000
+      internalID: 4136071271806951658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01845698ad9f35150800000000000000
+      internalID: 5860302257142450192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf00a8c7a90d220800000000000000
+      internalID: 2508674852127309278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b11e0d1e835d070800000000000000
+      internalID: 8130467244810509071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225b6a5fe8e7eeb0800000000000000
+      internalID: -4690524372171271640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7882faafbbfbc9e80800000000000000
+      internalID: -8170444809871349625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d39c1a04c3b30a90800000000000000
+      internalID: -7348832512373910567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0463c55496a4e00800000000000000
+      internalID: 1029751211428298963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9267f1fcdb8f9a0800000000000000
+      internalID: -6198996189791770192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18d8dec6b8859c0800000000000000
+      internalID: -3938244574177295911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba9ce6923eab0620800000000000000
+      internalID: 2741476330488765118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a487b89802e8030800000000000000
+      internalID: 3498769735635978855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0018a707156640800000000000000
+      internalID: 5072485876954565771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432cfbdbe1e75e80800000000000000
+      internalID: -8189828994225659062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2162fc271582ae00800000000000000
+      internalID: 1054551597342941485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eee40d0c6cd8cd0800000000000000
+      internalID: -2554166882218348917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec673cbf6ce298b0800000000000000
+      internalID: -5146791459487781661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff076282d46eb480800000000000000
+      internalID: -8881550559834337292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591279e4de934400800000000000000
+      internalID: 307263836878149971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ac7869c15b7fb0800000000000000
+      internalID: -4649032264846629223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0eb4368ad0b5460800000000000000
+      internalID: 7231388643545047219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dbcd443b02513d0800000000000000
+      internalID: -3236644802869281475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af143af13cee230800000000000000
+      internalID: 3670085287003945489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeefb13f4e242080800000000000000
+      internalID: -9213188020021236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe16daf2d6e9e280800000000000000
+      internalID: -9013419385379479810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091a42e38244c420800000000000000
+      internalID: 2649315615005350144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f926c0ddc56b1df0800000000000000
+      internalID: -208461023097247243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5fe6432126fb800800000000000000
+      internalID: 630330303183779276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb995f864d2ad2400800000000000000
+      internalID: 301075783281383870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5613f9e06dda80800000000000000
+      internalID: -8440483568700465907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad5819e67183ad0800000000000000
+      internalID: -2722400211090154917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7aad90cffd1dfb0800000000000000
+      internalID: -4624669068742711340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4dcbc1437c46f40800000000000000
+      internalID: 5720916453301736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a40782bb118e610800000000000000
+      internalID: 1650588758966291072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f160bfd626da20800000000000000
+      internalID: 3086697336787826594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a98d8fb4b61e930800000000000000
+      internalID: 4170732703963454045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4764bc1ee6b2170800000000000000
+      internalID: 8154733466341504189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674dc0bac4dd3ed20800000000000000
+      internalID: 3306729872777073782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71cd0514f4830e0800000000000000
+      internalID: -2289993268569827345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d91be634555800800000000000000
+      internalID: 600478720173134614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b688cc241783ab10800000000000000
+      internalID: 1991583980948326073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be13a90764578080800000000000000
+      internalID: -9185280113478787399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4112bc7cccde680800000000000000
+      internalID: -8724091744668281609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73dd0320c8aa74a0800000000000000
+      internalID: -6594773161155374214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc32a5beb726be70800000000000000
+      internalID: 9130528994584837365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2921af8d1b7830120800000000000000
+      internalID: 2378894226100982418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace35550c6df0680800000000000000
+      internalID: -8786568226422920032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa21056b1354e70800000000000000
+      internalID: 9098733281269165910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f85eac0ff67f260800000000000000
+      internalID: 7131291614951345980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881eee952c3d9650800000000000000
+      internalID: 6241210790883235973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb85f6098ceebb0800000000000000
+      internalID: -4904762421490959442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c536dbd4b84d40800000000000000
+      internalID: 5568899795528303544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326e5f02eee875600800000000000000
+      internalID: 456991040607741475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8a535d428a9b70800000000000000
+      internalID: 8906574481701112748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a34dbab93c50b70800000000000000
+      internalID: 8864706514918849099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af9766f4692f87b0800000000000000
+      internalID: -5219907929491660894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5971d71790984d0800000000000000
+      internalID: -3131961682824817225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8951d980ebac9a0800000000000000
+      internalID: -6211943791799723783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33361b0c77ed0d2a0800000000000000
+      internalID: -6714622438494084301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bba30c76d7aa9c0800000000000000
+      internalID: -3915179041485046956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3cddc9162880a50800000000000000
+      internalID: 6487578618982417326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9031afc8eb62530800000000000000
+      internalID: 3829958045825436139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92ab10211a6c34e0800000000000000
+      internalID: -2000607512673672549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0bd2c17bffb9f00800000000000000
+      internalID: 1124773693875925242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc490d786ff5390800000000000000
+      internalID: -7827266564166201503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5cd910814335520800000000000000
+      internalID: 2689550680181294570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae6ddbaf8db8c0d0800000000000000
+      internalID: -3402261093717021024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f0bdbad3cf30f0800000000000000
+      internalID: -1134973236821298606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cd23c6a3cff2c0800000000000000
+      internalID: -4395579590283769969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4535f1536674acb0800000000000000
+      internalID: -4853624329449687729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf522b6b375940620800000000000000
+      internalID: 2739478797567010299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d06ac7d1d74dc520800000000000000
+      internalID: 2723912316223119574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bdfd6a807b54770800000000000000
+      internalID: 8594476711693769529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675744f246ed3f370800000000000000
+      internalID: 8355266255573513590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38158deb87898f50800000000000000
+      internalID: 6884182540467640382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d8ca47cd5f19c0800000000000000
+      internalID: -3954338837273456276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04cd061ddc0d1320800000000000000
+      internalID: 2530192709349393418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde4c51982017fb0800000000000000
+      internalID: -4651934152298009134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cb44922af5df30800000000000000
+      internalID: 4599857620852654516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d00185e46056580800000000000000
+      internalID: -8834648160462697151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b22e4769c5275f0800000000000000
+      internalID: -760443585796363372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c347c8aa21f2ad0800000000000000
+      internalID: -2724938725825692545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f7fe36c4572ea0800000000000000
+      internalID: -5897651976581680800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df1931cee53c160800000000000000
+      internalID: 7044578610171215177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8534cecd8d1a31460800000000000000
+      internalID: 7211285381141775192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5415ed8461093a50800000000000000
+      internalID: 6501229068474979419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9563af54367a0d0800000000000000
+      internalID: -3411649040508102165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83646ecb25faa5c90800000000000000
+      internalID: -7180233885997447624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a82e50099a8770800000000000000
+      internalID: 8613865464158266256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fa00a05d344770800000000000000
+      internalID: 8594061405421499866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f09661c9566610800000000000000
+      internalID: 1614076203643237669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a7e900a4a59570800000000000000
+      internalID: 8472859281235354403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ec998fd4df53b0800000000000000
+      internalID: -5521460561581383631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046aa1e9e8609bce0800000000000000
+      internalID: -1389071800459418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea28b889238ece0800000000000000
+      internalID: -1375794055404671317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f99763e5b5ed60800000000000000
+      internalID: 7918935508101230745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10f3d2c0eb43b10800000000000000
+      internalID: 1960400697320997310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4a96ef612da60b0800000000000000
+      internalID: -5734540179303455553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c80080a73715b000800000000000000
+      internalID: 50972498468014273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49134c33f8f7b93d0800000000000000
+      internalID: -3198822857291058796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0934f1d63e6100800000000000000
+      internalID: 103080116849543951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce552611a32706d90800000000000000
+      internalID: -7106554618265315860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2de782927c6ba10800000000000000
+      internalID: 1924944870334452384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b5e8aff4807da0800000000000000
+      internalID: -5949108874171272968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d64d7f4bcb71c600800000000000000
+      internalID: 486806347874911960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0928fb66784d006b0800000000000000
+      internalID: -5332028280797166960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2729c3d0f17130800000000000000
+      internalID: 3562893572630326187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d69dbd63e47090800000000000000
+      internalID: -8037549374477774555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97cf0360f26656f0800000000000000
+      internalID: -696260307788511330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805842f1c19392690800000000000000
+      internalID: -7626501701030869752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318f735bcc366d70800000000000000
+      internalID: 9035976546342371647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b6f8978cdbda90800000000000000
+      internalID: -7287989097024014715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d564532a9c2c62d0800000000000000
+      internalID: -3284200987730614827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077adde8a1da9690800000000000000
+      internalID: -7594527298131691768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620dc25a76d09b90800000000000000
+      internalID: -7237048780320865688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474912cc461296f0800000000000000
+      internalID: -679456074849761472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0f6a32eeaab7b0800000000000000
+      internalID: -5207657732434358555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821a1cf425ca3020800000000000000
+      internalID: 2322385320501973640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbc6ec424df8480800000000000000
+      internalID: -8894657484486296285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4edd176fd0f6480800000000000000
+      internalID: -8903882586164697867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8be684e775fce0800000000000000
+      internalID: -1372058688064615308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b860d2201a517a0800000000000000
+      internalID: -6407037864147252364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8cb2fbe04d77060800000000000000
+      internalID: 6951257709671598319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c49823078292bf90800000000000000
+      internalID: -6939322967253281593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5353a3c50da53d0800000000000000
+      internalID: -3217029889270663719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2577d984057c2520800000000000000
+      internalID: 2678644540731520298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e21b37bbd70aa0800000000000000
+      internalID: -6194741182408235687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52ba0033aebcd80800000000000000
+      internalID: -8229226389314001434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fddf1725d191e10800000000000000
+      internalID: 2168796935492591364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357efb5ae54b68ef0800000000000000
+      internalID: -106199222595885229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4cc3b90fd008a10800000000000000
+      internalID: 1909541569052853450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b525140a2b44340800000000000000
+      internalID: 4847195500317924255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33121b8e19c261f0800000000000000
+      internalID: -1053058229831855298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885faf45c6e07ce70800000000000000
+      internalID: 9135286227589330312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19332b871d4d9f0800000000000000
+      internalID: -444500146886831627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f1037c421887d0800000000000000
+      internalID: -2916060639166073286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a556807d895a50eb0800000000000000
+      internalID: -4754211755758426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03609c6cbfb0a9700800000000000000
+      internalID: 547763480678696496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174d414db9780f140800000000000000
+      internalID: 4751446710223688817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2ffcd88cc13b80800000000000000
+      internalID: -8416721340383417329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf721c9953c5996d0800000000000000
+      internalID: -2983251892873648133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e571d7e636416a30800000000000000
+      internalID: 4206720728572196320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b620729ad8dfe450800000000000000
+      internalID: 6120348851891087025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec05e3f27addde0800000000000000
+      internalID: -1306704495516791239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173361426d2be470800000000000000
+      internalID: 8424877427953710866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9c216bf1c8d270800000000000000
+      internalID: 8275577600704552232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb704a82a54cd7550800000000000000
+      internalID: 6160295756820645819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab880932c80f0d20800000000000000
+      internalID: 3246823486630955939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c682075a1cdf2950800000000000000
+      internalID: 6426597198968030913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcefc22de0fdc6f0800000000000000
+      internalID: -662608668871627559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c0ea54ed5a2e00800000000000000
+      internalID: 1020731500911443999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2334263f2d795660800000000000000
+      internalID: 7375063506521174829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28faf41dc3c2f3b50800000000000000
+      internalID: 6575022620705533826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6154065ceccec0800000000000000
+      internalID: -3545198952463634444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cb398b0414dce10800000000000000
+      internalID: 2219501937593924686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda10f29d0aaad90800000000000000
+      internalID: -7085674209057067546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d44a138c075bc0800000000000000
+      internalID: -3794550403815384619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b703bca2bf09600800000000000000
+      internalID: 473154122090052378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1495ed5905223a20800000000000000
+      internalID: 3040533420588766236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aed267ac28665d0800000000000000
+      internalID: -3069622289928689060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A1_AnimatedGround_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0c8b5522bcae90800000000000000
+      internalID: -7013034646203266273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      A1_AnimatedGround_77: -8786568226422920032
+      A1_AnimatedGround_99: -4395579590283769969
+      A1_AnimatedGround_59: 301075783281383870
+      A1_AnimatedGround_5: 2801348927215128118
+      A1_AnimatedGround_39: -6198996189791770192
+      A1_AnimatedGround_105: 6884182540467640382
+      A1_AnimatedGround_155: -3217029889270663719
+      A1_AnimatedGround_119: 8613865464158266256
+      A1_AnimatedGround_145: -7237048780320865688
+      A1_AnimatedGround_24: 1964009073517272197
+      A1_AnimatedGround_45: 1054551597342941485
+      A1_AnimatedGround_0: -9007331781161995236
+      A1_AnimatedGround_67: 8154733466341504189
+      A1_AnimatedGround_140: -7626501701030869752
+      A1_AnimatedGround_86: -5219907929491660894
+      A1_AnimatedGround_20: -556837975287986749
+      A1_AnimatedGround_44: -8189828994225659062
+      A1_AnimatedGround_71: 1991583980948326073
+      A1_AnimatedGround_123: -5521460561581383631
+      A1_AnimatedGround_143: -3284200987730614827
+      A1_AnimatedGround_174: -1306704495516791239
+      A1_AnimatedGround_63: 5720916453301736687
+      A1_AnimatedGround_72: -9185280113478787399
+      A1_AnimatedGround_138: -8037549374477774555
+      A1_AnimatedGround_109: 4599857620852654516
+      A1_AnimatedGround_181: 1020731500911443999
+      A1_AnimatedGround_116: 6501229068474979419
+      A1_AnimatedGround_18: -5267284474281948238
+      A1_AnimatedGround_152: -6407037864147252364
+      A1_AnimatedGround_102: 2723912316223119574
+      A1_AnimatedGround_49: 307263836878149971
+      A1_AnimatedGround_31: 4136071271806951658
+      A1_AnimatedGround_183: 6575022620705533826
+      A1_AnimatedGround_169: 4751446710223688817
+      A1_AnimatedGround_126: 7918935508101230745
+      A1_AnimatedGround_90: -3915179041485046956
+      A1_AnimatedGround_125: -1375794055404671317
+      A1_AnimatedGround_117: -3411649040508102165
+      A1_AnimatedGround_112: -2724938725825692545
+      A1_AnimatedGround_30: -9124406595083280505
+      A1_AnimatedGround_27: 2458146138566602242
+      A1_AnimatedGround_1: 1390745906271628423
+      A1_AnimatedGround_186: -7085674209057067546
+      A1_AnimatedGround_157: -6194741182408235687
+      A1_AnimatedGround_151: -1372058688064615308
+      A1_AnimatedGround_88: -6211943791799723783
+      A1_AnimatedGround_167: -4754211755758426790
+      A1_AnimatedGround_163: -1053058229831855298
+      A1_AnimatedGround_113: -5897651976581680800
+      A1_AnimatedGround_103: 8594476711693769529
+      A1_AnimatedGround_177: 6160295756820645819
+      A1_AnimatedGround_190: -3069622289928689060
+      A1_AnimatedGround_80: 6241210790883235973
+      A1_AnimatedGround_38: 1029751211428298963
+      A1_AnimatedGround_56: 2649315615005350144
+      A1_AnimatedGround_107: 2530192709349393418
+      A1_AnimatedGround_149: -8894657484486296285
+      A1_AnimatedGround_10: -1107733752394637160
+      A1_AnimatedGround_85: 8864706514918849099
+      A1_AnimatedGround_98: -1134973236821298606
+      A1_AnimatedGround_23: 3179960942293246144
+      A1_AnimatedGround_170: -8416721340383417329
+      A1_AnimatedGround_69: -2289993268569827345
+      A1_AnimatedGround_173: 6120348851891087025
+      A1_AnimatedGround_37: -7348832512373910567
+      A1_AnimatedGround_58: 630330303183779276
+      A1_AnimatedGround_95: -7827266564166201503
+      A1_AnimatedGround_54: -9213188020021236035
+      A1_AnimatedGround_182: 7375063506521174829
+      A1_AnimatedGround_8: 7920196809226639643
+      A1_AnimatedGround_26: 3006222704715505939
+      A1_AnimatedGround_36: -8170444809871349625
+      A1_AnimatedGround_79: 7131291614951345980
+      A1_AnimatedGround_17: -5533464860528243773
+      A1_AnimatedGround_19: -3181715753662954746
+      A1_AnimatedGround_87: -3131961682824817225
+      A1_AnimatedGround_185: 2219501937593924686
+      A1_AnimatedGround_160: -106199222595885229
+      A1_AnimatedGround_15: -5958276067743808418
+      A1_AnimatedGround_4: 7103341520421702152
+      A1_AnimatedGround_34: 8130467244810509071
+      A1_AnimatedGround_42: 3498769735635978855
+      A1_AnimatedGround_162: 4847195500317924255
+      A1_AnimatedGround_178: 3246823486630955939
+      A1_AnimatedGround_161: 1909541569052853450
+      A1_AnimatedGround_3: 5707279921740989605
+      A1_AnimatedGround_165: -444500146886831627
+      A1_AnimatedGround_60: -8440483568700465907
+      A1_AnimatedGround_128: -5734540179303455553
+      A1_AnimatedGround_50: -4649032264846629223
+      A1_AnimatedGround_28: -1528176506321583813
+      A1_AnimatedGround_21: 1797842217889910839
+      A1_AnimatedGround_7: 4122527996114028804
+      A1_AnimatedGround_73: -8724091744668281609
+      A1_AnimatedGround_40: -3938244574177295911
+      A1_AnimatedGround_130: -3198822857291058796
+      A1_AnimatedGround_111: -760443585796363372
+      A1_AnimatedGround_41: 2741476330488765118
+      A1_AnimatedGround_78: 9098733281269165910
+      A1_AnimatedGround_62: -4624669068742711340
+      A1_AnimatedGround_96: 2689550680181294570
+      A1_AnimatedGround_110: -8834648160462697151
+      A1_AnimatedGround_189: 3040533420588766236
+      A1_AnimatedGround_94: 1124773693875925242
+      A1_AnimatedGround_124: -1389071800459418048
+      A1_AnimatedGround_115: 7211285381141775192
+      A1_AnimatedGround_48: -8881550559834337292
+      A1_AnimatedGround_121: 1614076203643237669
+      A1_AnimatedGround_65: 3086697336787826594
+      A1_AnimatedGround_129: 50972498468014273
+      A1_AnimatedGround_11: -3032009005170402741
+      A1_AnimatedGround_33: 2508674852127309278
+      A1_AnimatedGround_184: -3545198952463634444
+      A1_AnimatedGround_75: 9130528994584837365
+      A1_AnimatedGround_146: -679456074849761472
+      A1_AnimatedGround_191: -7013034646203266273
+      A1_AnimatedGround_47: -5146791459487781661
+      A1_AnimatedGround_134: -5949108874171272968
+      A1_AnimatedGround_141: 9035976546342371647
+      A1_AnimatedGround_166: -2916060639166073286
+      A1_AnimatedGround_153: 6951257709671598319
+      A1_AnimatedGround_2: -6204985392544650243
+      A1_AnimatedGround_148: 2322385320501973640
+      A1_AnimatedGround_100: -4853624329449687729
+      A1_AnimatedGround_83: 456991040607741475
+      A1_AnimatedGround_104: 8355266255573513590
+      A1_AnimatedGround_106: -3954338837273456276
+      A1_AnimatedGround_150: -8903882586164697867
+      A1_AnimatedGround_139: -696260307788511330
+      A1_AnimatedGround_120: 8594061405421499866
+      A1_AnimatedGround_133: 1924944870334452384
+      A1_AnimatedGround_118: -7180233885997447624
+      A1_AnimatedGround_66: 4170732703963454045
+      A1_AnimatedGround_172: 4206720728572196320
+      A1_AnimatedGround_108: -4651934152298009134
+      A1_AnimatedGround_76: 2378894226100982418
+      A1_AnimatedGround_14: 362158216612459534
+      A1_AnimatedGround_175: 8424877427953710866
+      A1_AnimatedGround_13: -6694398860100145665
+      A1_AnimatedGround_176: 8275577600704552232
+      A1_AnimatedGround_93: -2000607512673672549
+      A1_AnimatedGround_35: -4690524372171271640
+      A1_AnimatedGround_122: 8472859281235354403
+      A1_AnimatedGround_171: -2983251892873648133
+      A1_AnimatedGround_6: -8279472261302592794
+      A1_AnimatedGround_46: -2554166882218348917
+      A1_AnimatedGround_51: 7231388643545047219
+      A1_AnimatedGround_135: 486806347874911960
+      A1_AnimatedGround_142: -7287989097024014715
+      A1_AnimatedGround_159: 2168796935492591364
+      A1_AnimatedGround_61: -2722400211090154917
+      A1_AnimatedGround_156: 2678644540731520298
+      A1_AnimatedGround_64: 1650588758966291072
+      A1_AnimatedGround_81: -4904762421490959442
+      A1_AnimatedGround_9: 4769922883404657366
+      A1_AnimatedGround_70: 600478720173134614
+      A1_AnimatedGround_74: -6594773161155374214
+      A1_AnimatedGround_188: 473154122090052378
+      A1_AnimatedGround_144: -7594527298131691768
+      A1_AnimatedGround_97: -3402261093717021024
+      A1_AnimatedGround_82: 5568899795528303544
+      A1_AnimatedGround_180: -662608668871627559
+      A1_AnimatedGround_12: -8076391744956785896
+      A1_AnimatedGround_114: 7044578610171215177
+      A1_AnimatedGround_187: -3794550403815384619
+      A1_AnimatedGround_91: 6487578618982417326
+      A1_AnimatedGround_57: -208461023097247243
+      A1_AnimatedGround_147: -5207657732434358555
+      A1_AnimatedGround_52: -3236644802869281475
+      A1_AnimatedGround_136: -5332028280797166960
+      A1_AnimatedGround_127: 1960400697320997310
+      A1_AnimatedGround_25: -3378376482325817138
+      A1_AnimatedGround_84: 8906574481701112748
+      A1_AnimatedGround_137: 3562893572630326187
+      A1_AnimatedGround_32: 5860302257142450192
+      A1_AnimatedGround_164: 9135286227589330312
+      A1_AnimatedGround_55: -9013419385379479810
+      A1_AnimatedGround_132: -7106554618265315860
+      A1_AnimatedGround_29: -3433964223980589999
+      A1_AnimatedGround_101: 2739478797567010299
+      A1_AnimatedGround_131: 103080116849543951
+      A1_AnimatedGround_168: 547763480678696496
+      A1_AnimatedGround_158: -8229226389314001434
+      A1_AnimatedGround_179: 6426597198968030913
+      A1_AnimatedGround_53: 3670085287003945489
+      A1_AnimatedGround_43: 5072485876954565771
+      A1_AnimatedGround_154: -6939322967253281593
+      A1_AnimatedGround_68: 3306729872777073782
+      A1_AnimatedGround_92: 3829958045825436139
+      A1_AnimatedGround_22: -6200205664291997291
+      A1_AnimatedGround_89: -6714622438494084301
+      A1_AnimatedGround_16: -7907314047489276209
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
